@@ -15,5 +15,6 @@ Hite | http://www.hite.com.br/
 Kenoby | http://kenoby.com/
 Poorny | http://poorny.com/
 Simbiose | http://www.simbioseventures.com/
+Startaê | http://startae.com/
 YACOWS | http://yacows.com.br/
 HE:Labs | http://helabs.com/
