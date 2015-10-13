@@ -10,13 +10,13 @@ Name | Website
 Catarse | https://www.catarse.me/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
-IBM | http://www.ibm.com/br-pt/
+HE:Labs | http://helabs.com/
 Hite | http://www.hite.com.br/
+IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
+Leanwork | http://leanwork.com.br/
 Poorny | http://poorny.com/
 Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
 Startaê | http://startae.com/
 YACOWS | http://yacows.com.br/
-HE:Labs | http://helabs.com/
-Leanwork | http://leanwork.com.br/
