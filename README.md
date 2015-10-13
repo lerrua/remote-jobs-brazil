@@ -14,5 +14,6 @@ IBM | http://www.ibm.com/br-pt/
 Hite | http://www.hite.com.br/
 Kenoby | http://kenoby.com/
 Poorny | http://poorny.com/
+Simbiose | http://www.simbioseventures.com/
 YACOWS | http://yacows.com.br/
 HE:Labs | http://helabs.com/
