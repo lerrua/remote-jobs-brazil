@@ -20,3 +20,4 @@ Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
 Startaê | http://startae.com/
 YACOWS | http://yacows.com.br/
+Pixedworks | http://pixedworks.com/
