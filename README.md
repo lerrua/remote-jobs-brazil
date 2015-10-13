@@ -13,6 +13,7 @@ Filmow | http://www.filmow.com/
 HE:Labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 IBM | http://www.ibm.com/br-pt/
+iBLISS | http://www.ibliss.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Pegcar | http://pegcar.com/
