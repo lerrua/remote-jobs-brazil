@@ -8,6 +8,7 @@ Name | Website
 ------------ | -------
 2xt | http://www.2xt.com.br/
 Catarse | https://www.catarse.me/
+Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
