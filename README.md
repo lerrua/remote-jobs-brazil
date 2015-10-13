@@ -15,6 +15,7 @@ Hite | http://www.hite.com.br/
 IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Pegcar | http://pegcar.com/
 Poorny | http://poorny.com/
 Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
