@@ -11,6 +11,7 @@ Catarse | https://www.catarse.me/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 IBM | http://www.ibm.com/br-pt/
+Hite | http://www.hite.com.br/
 Kenoby | http://kenoby.com/
 Poorny | http://poorny.com/
 YACOWS | http://yacows.com.br/
