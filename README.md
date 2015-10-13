@@ -16,9 +16,9 @@ IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Pegcar | http://pegcar.com/
+Pixedworks | http://pixedworks.com/
 Poorny | http://poorny.com/
 Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
 Startaê | http://startae.com/
 YACOWS | http://yacows.com.br/
-Pixedworks | http://pixedworks.com/
