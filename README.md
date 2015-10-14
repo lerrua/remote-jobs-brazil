@@ -10,6 +10,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 Name | Website
 ------------ | -------
 2xt | http://www.2xt.com.br/
+Abacomm | http://www.abacomm.com.br/
 Ampla Visão | http://www.amplavisao.com/freelascad
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
