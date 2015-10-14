@@ -17,6 +17,7 @@ Avante.com | https://avante.com
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
+Digesto | https://www.digesto.com.br/servicos
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 HE:labs | http://helabs.com/
