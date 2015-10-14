@@ -35,3 +35,4 @@ TecSinapse | http://www.tecsinapse.com.br
 
 Name | Website
 ------------ | -------
+TIDY | http://gotidy.com/
