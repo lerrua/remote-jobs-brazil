@@ -36,3 +36,4 @@ TecSinapse | http://www.tecsinapse.com.br
 Name | Website
 ------------ | -------
 TIDY | http://gotidy.com/
+Toptal | http://www.toptal.com/
