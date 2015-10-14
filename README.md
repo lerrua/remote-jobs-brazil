@@ -32,6 +32,7 @@ Simbiose | http://www.simbioseventures.com/
 SodaVirtual | http://www.sodavirtual.com.br/
 Startaê | http://startae.com/
 TecSinapse | http://www.tecsinapse.com.br
+Titans Group | http://www.titansgroup.com.br/
 TurboSys | http://turbosys.com.br/
 YACOWS | http://yacows.com.br/
 
