@@ -51,6 +51,6 @@ YACOWS | http://yacows.com.br/
 Name | Website
 ------------ | -------
 Anchor Loans | http://www.anchorloans.com/
+Github | https://jobs.github.com/positions
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
-Github | https://jobs.github.com/positions
