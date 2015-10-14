@@ -25,6 +25,7 @@ IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 MiningMath | http://www.miningmath.com/
+Nossas Cidades | http://www.nossascidades.org/
 Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
 Pixedworks | http://pixedworks.com/
