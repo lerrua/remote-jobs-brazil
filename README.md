@@ -18,7 +18,7 @@ Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
-HE:Labs | http://helabs.com/
+HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
 IBM | http://www.ibm.com/br-pt/
