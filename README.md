@@ -10,14 +10,15 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 Name | Website
 ------------ | -------
 2xt | http://www.2xt.com.br/
+Ampla Visão | http://www.amplavisao.com/freelascad
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 HE:Labs | http://helabs.com/
 Hite | http://www.hite.com.br/
-IBM | http://www.ibm.com/br-pt/
 iBLISS | http://www.ibliss.com.br/
+IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Onyo | http://www.onyo.com
@@ -28,9 +29,9 @@ Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
 SodaVirtual | http://www.sodavirtual.com.br/
 Startaê | http://startae.com/
-YACOWS | http://yacows.com.br/
-Ampla Visão | http://www.amplavisao.com/freelascad
 TecSinapse | http://www.tecsinapse.com.br
+TurboSys | http://turbosys.com.br/
+YACOWS | http://yacows.com.br/
 
 
 ## Companies from outside Brazil that hire brazilians to work remotely:
