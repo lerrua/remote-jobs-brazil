@@ -4,6 +4,9 @@ An incomplete and unverified list of semi to fully remote-friendly companies in 
 
 Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 
+
+## Brazilian companies that hire to work remotely:
+
 Name | Website
 ------------ | -------
 2xt | http://www.2xt.com.br/
@@ -24,6 +27,14 @@ Raise | http://www.raisesistemas.com.br
 Simbiose | http://www.simbioseventures.com/
 SodaVirtual | http://www.sodavirtual.com.br/
 Startaê | http://startae.com/
-YACOWS | http://yacows.com.br/  
+YACOWS | http://yacows.com.br/
 Ampla Visão | http://www.amplavisao.com/freelascad
 TecSinapse | http://www.tecsinapse.com.br
+
+
+## Companies from outside Brazil that hire brazilians to work remotely:
+
+Name | Website
+------------ | -------
+TIDY | http://gotidy.com/
+Toptal | http://www.toptal.com/
