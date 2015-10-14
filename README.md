@@ -16,6 +16,7 @@ IBM | http://www.ibm.com/br-pt/
 iBLISS | http://www.ibliss.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
 Pixedworks | http://pixedworks.com/
 Poorny | http://poorny.com/
