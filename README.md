@@ -24,6 +24,7 @@ iBLISS | http://www.ibliss.com.br/
 IBM | http://www.ibm.com/br-pt/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Medicinia | https://www.medicinia.com.br/
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Nossas Cidades | http://www.nossascidades.org/
