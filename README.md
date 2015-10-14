@@ -13,6 +13,7 @@ Name | Website
 2xt | http://www.2xt.com.br/
 Abacomm | http://www.abacomm.com.br/
 Ampla Visão | http://www.amplavisao.com/freelascad
+Avante.com | https://avante.com
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
