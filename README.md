@@ -11,6 +11,7 @@ Name | Website
 ------------ | -------
 2xt | http://www.2xt.com.br/
 Catarse | https://www.catarse.me/
+Colivre | http://colivre.coop.br/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 HE:Labs | http://helabs.com/
