@@ -29,6 +29,7 @@ Leanwork | http://leanwork.com.br/
 Medicinia | https://www.medicinia.com.br/
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
+Myfreecomm | http://www.myfreecomm.com.br/
 Nossas Cidades | http://www.nossascidades.org/
 Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
