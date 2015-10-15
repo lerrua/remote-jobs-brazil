@@ -14,6 +14,7 @@ Name | Website
 Abacomm | http://www.abacomm.com.br/
 Ampla Visão | http://www.amplavisao.com/freelascad
 Avante.com | https://avante.com
+Brave Investments | http://braveinvest.com.br
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
