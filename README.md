@@ -57,6 +57,6 @@ Github | https://jobs.github.com/positions
 Happy Bear Software | https://www.happybearsoftware.com/
 Lev Interactive | http://lev-interactive.com/
 RedHat | https://www.redhat.com/en/global/brazil
+ScrapingHub | http://scrapinghub.com/jobs/
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
-ScrapingHub | http://scrapinghub.com/jobs/
