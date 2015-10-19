@@ -54,6 +54,7 @@ Name | Website
 ------------ | -------
 Anchor Loans | http://www.anchorloans.com/
 Github | https://jobs.github.com/positions
+Happy Bear Software | https://www.happybearsoftware.com/
 Lev Interactive | http://lev-interactive.com/
 RedHat | https://www.redhat.com/en/global/brazil
 TIDY | http://gotidy.com/
