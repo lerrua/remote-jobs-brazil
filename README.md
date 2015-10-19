@@ -55,5 +55,6 @@ Name | Website
 Anchor Loans | http://www.anchorloans.com/
 Github | https://jobs.github.com/positions
 Lev Interactive | http://lev-interactive.com/
+RedHat | https://www.redhat.com/en/global/brazil
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
