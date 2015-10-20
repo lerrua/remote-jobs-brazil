@@ -60,3 +60,4 @@ RedHat | https://www.redhat.com/en/global/brazil
 ScrapingHub | http://scrapinghub.com/jobs/
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
+X-Team | http://www.x-team.com/
