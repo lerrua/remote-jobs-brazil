@@ -53,7 +53,9 @@ YACOWS | http://yacows.com.br/
 
 Name | Website
 ------------ | -------
+10up  | http://10up.com/careers/
 Anchor Loans | http://www.anchorloans.com/
+Automattic  | https://automattic.com/work-with-us/
 Github | https://jobs.github.com/positions
 Happy Bear Software | https://www.happybearsoftware.com/
 Lev Interactive | http://lev-interactive.com/
