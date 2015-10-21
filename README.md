@@ -16,6 +16,7 @@ Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
 Ampla Visão | http://www.amplavisao.com/freelascad
 Avante.com | https://avante.com
+Blogo | http://getblogo.com
 Brave Investments | http://www.braveinvest.com.br
 Catarse | https://www.catarse.me/
 Colivre | http://colivre.coop.br/
