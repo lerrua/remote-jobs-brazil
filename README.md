@@ -20,6 +20,7 @@ Bikoo | http://bikoo.com.br
 Blogo | http://getblogo.com
 Brave Investments | http://www.braveinvest.com.br
 Catarse | https://www.catarse.me/
+Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Digesto | https://www.digesto.com.br/servicos
