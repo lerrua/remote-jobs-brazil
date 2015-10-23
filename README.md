@@ -64,6 +64,7 @@ Automattic  | https://automattic.com/work-with-us/
 Github | https://jobs.github.com/positions
 Happy Bear Software | https://www.happybearsoftware.com/
 Lev Interactive | http://lev-interactive.com/
+Modern Tribe | http://tri.be/about/join-our-team/
 RedHat | https://www.redhat.com/en/global/brazil
 ScrapingHub | http://scrapinghub.com/jobs/
 TIDY | http://gotidy.com/
