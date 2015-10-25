@@ -43,7 +43,8 @@ Pegcar | http://pegcar.com/
 Pixedworks | http://pixedworks.com/
 Poorny | http://poorny.com/
 Prime Systems | http://www.primesystems.com.br/
-Raise | http://www.raisesistemas.com.br
+Raise | http://www.raisesistemas.com.br/
+Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 SodaVirtual | http://www.sodavirtual.com.br/
 Startaê | http://startae.com/
