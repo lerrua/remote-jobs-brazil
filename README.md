@@ -37,6 +37,7 @@ MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Myfreecomm | http://www.myfreecomm.com.br/
 Nossas Cidades | http://www.nossascidades.org/
+ntxdev | http://www.ntxdev.com.br
 Núcleo Digital | http://www.nucleodigital.cc
 Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
