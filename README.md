@@ -1,6 +1,6 @@
 # Remote-friendly brazilian companies
 
-A list of semi to fully remote-friendly companies in or around tech. 
+A list of semi to fully remote-friendly companies in or around tech.
 
 Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is at least partially remote, they are added in alphabetical order in the list, and are added with a website.
 
@@ -30,6 +30,7 @@ HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
 IBM | http://www.ibm.com/br-pt/
+Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Medicinia | https://www.medicinia.com.br/
