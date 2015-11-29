@@ -73,6 +73,7 @@ Modern Tribe | http://tri.be/about/join-our-team/
 RedHat | https://www.redhat.com/en/global/brazil
 ScrapingHub | http://scrapinghub.com/jobs/
 Stack Exchange | http://stackexchange.com/work-here
+Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
