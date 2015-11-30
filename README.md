@@ -66,6 +66,7 @@ Name | Website
 10up  | http://10up.com/careers/
 Anchor Loans | http://www.anchorloans.com/
 Automattic  | https://automattic.com/work-with-us/
+Clevertech | http://www.clevertech.biz/
 GitHub | https://jobs.github.com/positions
 Happy Bear Software | https://www.happybearsoftware.com/
 Lev Interactive | http://lev-interactive.com/
@@ -78,4 +79,3 @@ TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
-Clevertech | http://www.clevertech.biz/
