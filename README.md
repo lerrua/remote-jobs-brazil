@@ -76,7 +76,7 @@ Living Social | https://www.livingsocial.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 RedHat | https://www.redhat.com/en/global/brazil
 ScrapingHub | http://scrapinghub.com/jobs/
-Shopify | shopify.com
+Shopify | http://www.shopify.com
 Stack Exchange | http://stackexchange.com/work-here
 Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
