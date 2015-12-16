@@ -70,10 +70,13 @@ Automattic  | https://automattic.com/work-with-us/
 Clevertech | http://www.clevertech.biz/
 GitHub | https://jobs.github.com/positions
 Happy Bear Software | https://www.happybearsoftware.com/
+Heroku | https://www.heroku.com/
 Lev Interactive | http://lev-interactive.com/
+Living Social | https://www.livingsocial.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 RedHat | https://www.redhat.com/en/global/brazil
 ScrapingHub | http://scrapinghub.com/jobs/
+Shopify | shopify.com
 Stack Exchange | http://stackexchange.com/work-here
 Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
