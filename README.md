@@ -43,6 +43,7 @@ ntxdev | http://www.ntxdev.com.br
 Núcleo Digital | http://www.nucleodigital.cc
 Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
+Pismo | http://pismo.io/
 Pixedworks | http://pixedworks.com/
 Poorny | http://poorny.com/
 Prime Systems | http://www.primesystems.com.br/
