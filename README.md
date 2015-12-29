@@ -64,7 +64,7 @@ YACOWS | http://yacows.com.br/
 ## Companies from outside Brazil that hire brazilians to work remotely:
 
 Name | Office | Website
------------- | -------
+-----| ------ | -------
 10up  | | http://10up.com/careers/
 Anchor Loans | | http://www.anchorloans.com/
 Automattic  | | https://automattic.com/work-with-us/
