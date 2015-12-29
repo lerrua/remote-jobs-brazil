@@ -78,9 +78,9 @@ Living Social | | https://www.livingsocial.com/
 Modern Tribe | | http://tri.be/about/join-our-team/
 RedHat | | https://www.redhat.com/en/global/brazil
 ScrapingHub | | http://scrapinghub.com/jobs/
-Scalable Path | | https://www.scalablepath.com/apply
+Scalable Path | San Francisco - CA | https://www.scalablepath.com/apply
 Shopify | | http://www.shopify.com
-Stack Exchange | San Francisco - CA | http://stackexchange.com/work-here
+Stack Exchange | | http://stackexchange.com/work-here
 Teamed | | http://www.teamed.io/
 TIDY | | http://gotidy.com/
 Toptal | | http://www.toptal.com/
