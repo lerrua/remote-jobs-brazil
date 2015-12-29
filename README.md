@@ -63,25 +63,26 @@ YACOWS | http://yacows.com.br/
 
 ## Companies from outside Brazil that hire brazilians to work remotely:
 
-Name | Website
+Name | Office | Website
 ------------ | -------
-10up  | http://10up.com/careers/
-Anchor Loans | http://www.anchorloans.com/
-Automattic  | https://automattic.com/work-with-us/
-Clevertech | http://www.clevertech.biz/
-GitHub | https://jobs.github.com/positions
-Gravity4 | http://gravity4.com/
-Happy Bear Software | https://www.happybearsoftware.com/
-Heroku | https://www.heroku.com/
-Lev Interactive | http://lev-interactive.com/
-Living Social | https://www.livingsocial.com/
-Modern Tribe | http://tri.be/about/join-our-team/
-RedHat | https://www.redhat.com/en/global/brazil
-ScrapingHub | http://scrapinghub.com/jobs/
-Shopify | http://www.shopify.com
-Stack Exchange | http://stackexchange.com/work-here
-Teamed | http://www.teamed.io/
-TIDY | http://gotidy.com/
-Toptal | http://www.toptal.com/
-X-Team | http://www.x-team.com/
-Zapier | https://zapier.com/jobs/
+10up  | | http://10up.com/careers/
+Anchor Loans | | http://www.anchorloans.com/
+Automattic  | | https://automattic.com/work-with-us/
+Clevertech | | http://www.clevertech.biz/
+GitHub | | https://jobs.github.com/positions
+Gravity4 | | http://gravity4.com/
+Happy Bear Software | | https://www.happybearsoftware.com/
+Heroku | | https://www.heroku.com/
+Lev Interactive | | http://lev-interactive.com/
+Living Social | | https://www.livingsocial.com/
+Modern Tribe | | http://tri.be/about/join-our-team/
+RedHat | | https://www.redhat.com/en/global/brazil
+ScrapingHub | | http://scrapinghub.com/jobs/
+Scalable Path | | https://www.scalablepath.com/apply
+Shopify | | http://www.shopify.com
+Stack Exchange | San Francisco - CA | http://stackexchange.com/work-here
+Teamed | | http://www.teamed.io/
+TIDY | | http://gotidy.com/
+Toptal | | http://www.toptal.com/
+X-Team | | http://www.x-team.com/
+Zapier | | https://zapier.com/jobs/
