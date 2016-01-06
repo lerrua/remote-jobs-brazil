@@ -1,4 +1,4 @@
-# Remote-friendly brazilian companies
+# Remote-friendly brazilian companies [![Build Status](https://travis-ci.org/lerrua/remote-jobs-brazil.svg?branch=master)](https://travis-ci.org/lerrua/remote-jobs-brazil)
 
 A list of semi to fully remote-friendly companies in or around tech.
 
