@@ -19,7 +19,7 @@ Avante.com | https://avante.com
 BeYou | http://www.beyou.com.br
 Bikoo | http://bikoo.com.br
 Blogo | http://getblogo.com
-Brave Investments | http://www.braveinvest.com.br
+Brave Investments | https://www.linkedin.com/company/brave-investments
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
