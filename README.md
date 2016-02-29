@@ -65,9 +65,13 @@ YACOWS | http://yacows.com.br/
 Name | Website
 ------------ | -------
 10up  | http://10up.com/careers/
+15five | http://www.15five.com/jobs/
 Anchor Loans | http://www.anchorloans.com/
 Automattic  | https://automattic.com/work-with-us/
+Bandcamp | https://bandcamp.com/jobs
 Clevertech | http://www.clevertech.biz/
+Discogs | http://www.discogs.com/jobs
+Elastic | https://www.elastic.co/about/careers
 Gravity4 | http://gravity4.com/
 Happy Bear Software | https://www.happybearsoftware.com/
 Heroku | https://www.heroku.com/
