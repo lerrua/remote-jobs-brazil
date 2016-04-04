@@ -87,3 +87,6 @@ TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
+Stickermule | https://www.stickermule.com/
+MustHaveMenus | http://www.musthavemenus.com/
+LocalLabs | http://www.locallabs.com/
