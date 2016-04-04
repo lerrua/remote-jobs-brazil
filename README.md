@@ -76,17 +76,17 @@ Happy Bear Software | https://www.happybearsoftware.com/
 Heroku | https://www.heroku.com/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
+LocalLabs | http://www.locallabs.com/
 Modern Tribe | http://tri.be/about/join-our-team/
+MustHaveMenus | http://www.musthavemenus.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
 Shopify | http://www.shopify.com
 Stack Exchange | http://stackexchange.com/work-here
+Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
-Stickermule | https://www.stickermule.com/
-MustHaveMenus | http://www.musthavemenus.com/
-LocalLabs | http://www.locallabs.com/
