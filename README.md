@@ -41,6 +41,7 @@ Myfreecomm | http://www.myfreecomm.com.br/
 Nossas Cidades | http://www.nossascidades.org/
 ntxdev | http://www.ntxdev.com.br
 Núcleo Digital | http://www.nucleodigital.cc
+Olist | https://olist.com
 Onyo | http://www.onyo.com
 Pegcar | http://pegcar.com/
 Pismo | http://pismo.io/
