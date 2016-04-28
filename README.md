@@ -16,7 +16,7 @@ Agrid | http://www.agrid.com.br/about/
 Ampla Visão | http://www.amplavisao.com/freelascad
 Avante.com | https://avante.com
 BeYou | http://www.beyou.com.br
-Bikoo | http://bikoo.com.br
+Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
 Brave Investments | https://www.linkedin.com/company/brave-investments
 Catarse | https://www.catarse.me/
