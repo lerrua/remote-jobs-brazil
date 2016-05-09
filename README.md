@@ -31,6 +31,7 @@ HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
 IBM | http://www.ibm.com/br-pt/
+JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
