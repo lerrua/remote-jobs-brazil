@@ -52,7 +52,7 @@ Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 SodaVirtual | http://www.sodavirtual.com.br/
-Squad | http://socialsquad.co
+Squad | https://socialsquad.co
 Startaê | http://startae.com/
 TecSinapse | http://www.tecsinapse.com.br
 Titans Group | http://www.titansgroup.com.br/
