@@ -30,7 +30,6 @@ Filmow | http://www.filmow.com/
 HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
-IBM | http://www.ibm.com/br-pt/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
@@ -78,6 +77,7 @@ Elastic | https://www.elastic.co/about/careers
 Gravity4 | http://gravity4.com/
 Happy Bear Software | https://www.happybearsoftware.com/
 Heroku | https://www.heroku.com/
+IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 LocalLabs | http://www.locallabs.com/
