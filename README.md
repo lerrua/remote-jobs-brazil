@@ -51,6 +51,7 @@ Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
+Skore | http://careers.skore.io/
 SodaVirtual | http://www.sodavirtual.com.br/
 Startaê | http://startae.com/
 TecSinapse | http://www.tecsinapse.com.br
