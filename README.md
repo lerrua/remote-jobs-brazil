@@ -92,6 +92,7 @@ Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
+Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
