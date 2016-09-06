@@ -85,6 +85,7 @@ Living Social | https://www.livingsocial.com/
 LocalLabs | http://www.locallabs.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 MustHaveMenus | http://www.musthavemenus.com/
+Quez Media | http://www.quezmedia.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
