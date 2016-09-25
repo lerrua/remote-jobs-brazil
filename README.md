@@ -46,7 +46,6 @@ Olist | https://olist.com
 Onyo | http://www.onyo.com
 Pegcar | https://pegcar.com/
 Pismo | http://pismo.io/
-Pixedworks | http://pixedworks.com/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
