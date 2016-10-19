@@ -28,6 +28,7 @@ Easytown | http://www.easytown.com/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 Grubster | https://www.grubster.com.br/
+GrupoCITEC | https://grupocitec.com/
 HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
