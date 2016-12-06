@@ -19,6 +19,7 @@ BeYou | http://www.beyou.com.br
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
 Brave Investments | https://www.linkedin.com/company/brave-investments
+CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
