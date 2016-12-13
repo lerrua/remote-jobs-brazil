@@ -31,6 +31,7 @@ Filmow | http://www.filmow.com/
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 HE:labs | http://helabs.com/
+High Stakes Academy | http://www.hsacademy.com.br/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
 JMS Comunicação | http://jmscomunicacao.com.br/
