@@ -53,6 +53,7 @@ Pegcar | https://pegcar.com/
 Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
+Remoto | http://www.remoto.me
 Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
