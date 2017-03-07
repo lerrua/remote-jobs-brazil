@@ -1,8 +1,9 @@
-sudo: false
-language: ruby
-rvm:
-  - 2.2
+language: python
+python:
+    - "3.5"
+    - "3.6"
 before_script:
-  - gem install awesome_bot
+  - pip install git+git://github.com/ellisonleao/vl.git@py3
+  - vl --version
 script:
-  - awesome_bot README.md --allow-redirect --white-list linkedin.com,jumpy.com.br,pegcar.com
+  - vl README.md --debug -w linkedin.com,jumpy.com.br,pegcar.com -a 503,405,401,403
