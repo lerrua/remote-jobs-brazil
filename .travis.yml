@@ -1,9 +1,8 @@
 language: python
 python:
-    - "3.5"
-    - "3.6"
+    - "2.7"
 before_script:
-  - pip install git+git://github.com/ellisonleao/vl.git@py3
+  - pip install vl
   - vl --version
 script:
-  - vl README.md --debug -w linkedin.com,jumpy.com.br,pegcar.com -a 503,405,401,403,301
+  - vl README.md --debug -w linkedin.com,jumpy.com.br,pegcar.com -a 503,405,401,403,301,302
