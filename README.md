@@ -61,6 +61,7 @@ Skore | http://careers.skore.io/
 SodaVirtual | http://www.sodavirtual.com.br/
 Squad | http://www.socialsquad.co
 Startaê | http://startae.com/
+Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Titans Group | http://www.titansgroup.com.br/
 TurboSys | http://turbosys.com.br/
