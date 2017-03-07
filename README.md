@@ -13,8 +13,8 @@ Name | Website
 203pixels | http://203pixels.com.br/
 Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
-Ampla Visão | http://www.amplavisao.com/freelascad
-Avante.com | https://avante.com
+Ampla Visão | http://www.amplavisao.com/
+Avante | https://avante.com.vc
 BeYou | http://www.beyou.com.br
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
@@ -74,7 +74,7 @@ YACOWS | http://yacows.com.br/
 Name | Website
 ------------ | -------
 10up  | http://10up.com/careers/
-15five | http://www.15five.com/jobs/
+15five | http://www.15five.com/
 Anchor Loans | http://www.anchorloans.com/
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
