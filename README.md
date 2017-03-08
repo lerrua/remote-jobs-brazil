@@ -14,6 +14,7 @@ Name | Website
 Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
 Ampla Visão | http://www.amplavisao.com/
+App2Sales | http://www.app2sales.com/
 Avante | http://www.avante.com.vc
 BeYou | http://www.beyou.com.br
 Bikoo | https://www.linkedin.com/company/9479291
@@ -25,9 +26,9 @@ Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Digesto | https://www.digesto.com.br/servicos
-Easytown | http://www.easytown.com/
+Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
-Filmow | http://www.filmow.com/
+Filmow | https://www.linkedin.com/company/filmow
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 HE:labs | http://helabs.com/
@@ -53,12 +54,11 @@ Pegcar | https://pegcar.com/
 Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
-Remoto | http://www.remoto.me
 Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
-SodaVirtual | http://www.sodavirtual.com.br/
+SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Squad | http://www.socialsquad.co
 Startaê | http://startae.com/
 Taller | http://taller.net.br/
@@ -76,7 +76,6 @@ Name | Website
 10up  | http://10up.com/careers/
 15five | http://www.15five.com/
 Anchor Loans | http://www.anchorloans.com/
-App2Sales | http://www.app2sales.com/
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
