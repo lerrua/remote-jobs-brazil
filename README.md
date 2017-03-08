@@ -14,6 +14,7 @@ Name | Website
 Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
 Ampla Visão | http://www.amplavisao.com/
+App2Sales | http://www.app2sales.com/
 Avante | https://avante.com.vc
 BeYou | http://www.beyou.com.br
 Bikoo | https://www.linkedin.com/company/9479291
@@ -74,7 +75,6 @@ Name | Website
 10up  | http://10up.com/careers/
 15five | http://www.15five.com/
 Anchor Loans | http://www.anchorloans.com/
-App2Sales | http://www.app2sales.com/
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
