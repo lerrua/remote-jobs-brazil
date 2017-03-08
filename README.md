@@ -14,7 +14,7 @@ Name | Website
 Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
 Ampla Visão | http://www.amplavisao.com/
-Avante | https://avante.com.vc
+Avante | http://www.avante.com.vc
 BeYou | http://www.beyou.com.br
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
