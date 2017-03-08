@@ -69,7 +69,7 @@ Velociti | http://www.velociti.com.br/
 YACOWS | http://yacows.com.br/
 
 
-## Companies from outside Brazil that hire brazilians to work remotely:
+## Worldwide companies that hire brazilians to work remotely:
 
 Name | Website
 ------------ | -------
