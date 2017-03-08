@@ -25,7 +25,6 @@ Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Digesto | https://www.digesto.com.br/servicos
-Easytown | http://www.easytown.com/
 Enjoei | http://www.enjoei.com.br/
 Filmow | http://www.filmow.com/
 Grubster | https://www.grubster.com.br/
@@ -58,7 +57,6 @@ Repassa | https://www.repassa.com.br/
 Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
-SodaVirtual | http://www.sodavirtual.com.br/
 Squad | http://www.socialsquad.co
 Startaê | http://startae.com/
 Taller | http://taller.net.br/
