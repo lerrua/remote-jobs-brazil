@@ -13,6 +13,7 @@ Name | Website
 203pixels | http://203pixels.com.br/
 Abacomm | http://www.abacomm.com.br/
 Agrid | http://www.agrid.com.br/about/
+AlgaWorks | https://algaworks.recruiterbox.com/
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://www.app2sales.com/
 Avante | http://www.avante.com.vc
