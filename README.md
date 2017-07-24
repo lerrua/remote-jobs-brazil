@@ -32,6 +32,7 @@ Enjoei | http://www.enjoei.com.br/
 Filmow | https://www.linkedin.com/company/filmow
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
+Gupy | https://www.gupy.io/
 HE:labs | http://helabs.com/
 High Stakes Academy | http://www.hsacademy.com.br/
 Hite | http://www.hite.com.br/
