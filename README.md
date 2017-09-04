@@ -35,7 +35,6 @@ GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 HE:labs | http://helabs.com/
 High Stakes Academy | http://www.hsacademy.com.br/
-Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
 Instruct | http://instruct.com.br/jobs
 JMS Comunicação | http://jmscomunicacao.com.br/
