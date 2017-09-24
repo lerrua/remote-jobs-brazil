@@ -93,6 +93,7 @@ IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 LocalLabs | http://www.locallabs.com/
+MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
 MustHaveMenus | http://www.musthavemenus.com/
 Quez Media | http://www.quezmedia.com/
