@@ -42,6 +42,7 @@ JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Magnetis | https://www.magnetis.com.br/
 Maption | http://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 MiningMath | http://www.miningmath.com/
