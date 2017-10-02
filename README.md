@@ -54,6 +54,7 @@ Nuveo | https://www.nuveo.com.br/
 Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Onyo | http://www.onyo.com
+Parafuzo | http://www.parafuzo.com
 Pegcar | https://pegcar.com/
 Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
