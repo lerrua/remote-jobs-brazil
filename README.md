@@ -71,6 +71,7 @@ TecSinapse | http://www.tecsinapse.com.br
 Titans Group | http://www.titansgroup.com.br/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
+VML Brasil | https://www.vml.com/brazil/
 YACOWS | http://yacows.com.br/
 
 
