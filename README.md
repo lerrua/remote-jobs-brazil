@@ -31,6 +31,7 @@ Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
+Geobit | http://www.geobit.com.br
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
