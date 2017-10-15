@@ -26,6 +26,7 @@ Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
+Cupcake Entertainment | https://www.cupcakese.com/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
