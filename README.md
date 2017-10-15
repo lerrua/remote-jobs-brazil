@@ -90,6 +90,7 @@ Bandcamp | https://bandcamp.com/jobs
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
 Crave Food | http://sourcewhatsgood.com/
+Crossover | http://www.crossover.com
 Discogs | http://www.discogs.com/jobs
 Elastic | https://www.elastic.co/about/careers
 Gravity4 | http://gravity4.com/
