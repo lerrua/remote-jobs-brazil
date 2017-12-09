@@ -30,6 +30,7 @@ Cupcake Entertainment | https://www.cupcakese.com/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
+Entria | https://entria.com.br/ 
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | http://www.geobit.com.br
