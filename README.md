@@ -84,19 +84,36 @@ Name | Website
 ------------ | -------
 10up  | http://10up.com/careers/
 15five | http://www.15five.com/
+Acquia | https://www.acquia.com/careers/open-positions
 Anchor Loans | http://www.anchorloans.com/
+Articulate | https://articulate.com/company/careers
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
+Baremetrics | https://baremetrics.com/about
+Bitnami | https://bitnami.com/careers
+Black Pixel | https://blackpixel.com/careers/
+Bloc | https://www.bloc.io/about
+Bluespark | https://www.bluespark.com/join-bluespark-team
+Canonical | https://www.canonical.com/careers/all-vacancies
+Citrusbyte | https://citrusbyte.com/careers
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
+Continu | http://careers.continu.co/
 Crave Food | http://sourcewhatsgood.com/
 Crossover | http://www.crossover.com
+Customer.io | https://customer.io/careers/
+Datadog | https://www.datadoghq.com/careers/
+DigitalOcean | https://www.digitalocean.com/company/careers/
 Discogs | http://www.discogs.com/jobs
+Doist | https://doist.com/jobs/
+DuckDuckGo | https://duckduckgo.com/hiring/
 Elastic | https://www.elastic.co/about/careers
+GitLab | https://about.gitlab.com/jobs/
 Gravity4 | http://gravity4.com/
 Happy Bear Software | https://www.happybearsoftware.com/
+Heap | https://heapanalytics.com/jobs
 Heroku | https://www.heroku.com/
 IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
@@ -105,9 +122,14 @@ LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
 MustHaveMenus | http://www.musthavemenus.com/
+Parsely | https://www.parse.ly/jobs/
+Platform.sh | https://platform.sh/company/team
 Quez Media | http://www.quezmedia.com/
+Rainforest QA | https://www.rainforestqa.com/jobs/
+ReCharge | https://recharge.workable.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
+Skillshare | https://jobs.lever.co/skillshare
 ScrapingHub | http://scrapinghub.com/jobs/
 Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
@@ -115,5 +137,8 @@ Teamed | http://www.teamed.io/
 TIDY | http://gotidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
+Udacity | https://www.udacity.com/jobs
+Wikimedia Foundation | https://wikimediafoundation.org/wiki/Work_with_us
+Wolfram | http://www.wolfram.com/company/careers/opportunities/
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
