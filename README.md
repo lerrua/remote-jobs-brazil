@@ -98,8 +98,8 @@ Bloc | https://www.bloc.io/about
 Bluespark | https://www.bluespark.com/join-bluespark-team
 Canonical | https://www.canonical.com/careers/all-vacancies
 Citrusbyte | https://citrusbyte.com/careers
-Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
+Codestunts | https://codestunts.com
 Continu | http://careers.continu.co/
 Crave Food | http://sourcewhatsgood.com/
 Crossover | http://www.crossover.com
@@ -129,8 +129,8 @@ Rainforest QA | https://www.rainforestqa.com/jobs/
 ReCharge | https://recharge.workable.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
-Skillshare | https://jobs.lever.co/skillshare
 ScrapingHub | http://scrapinghub.com/jobs/
+Skillshare | https://jobs.lever.co/skillshare
 Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
