@@ -18,6 +18,7 @@ Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://www.app2sales.com/
 Avante | http://www.avante.com.vc
 BeYou | http://www.beyou.com.br
+Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
 Brave Investments | https://www.linkedin.com/company/brave-investments
