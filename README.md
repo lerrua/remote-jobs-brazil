@@ -49,6 +49,7 @@ Leanwork | http://leanwork.com.br/
 Magnetis | https://www.magnetis.com.br/
 Maption | http://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
+Melhores Diaristas | https://www.melhoresdiaristas.com
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Nexaas | http://www.nexaas.com
