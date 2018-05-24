@@ -32,7 +32,7 @@ Cupcake Entertainment | https://www.cupcakese.com/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
-Entria | https://github.com/entria/jobs 
+Entria | https://github.com/entria/jobs
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | http://www.geobit.com.br
@@ -61,7 +61,7 @@ Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Onyo | http://www.onyo.com
 Parafuzo | http://www.parafuzo.com
-Pipefy | https://www.pipefy.com/jobs/ 
+Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
