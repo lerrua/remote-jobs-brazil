@@ -71,7 +71,7 @@ Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Squad | http://www.socialsquad.co
-Startaê | http://startae.com/
+Startaê | https://startae.com/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Titans Group | http://www.titansgroup.com.br/
