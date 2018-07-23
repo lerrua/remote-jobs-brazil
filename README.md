@@ -36,6 +36,7 @@ Entria | https://github.com/entria/jobs
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | http://www.geobit.com.br
+Getty/IO | https://www.getty.io
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
