@@ -57,7 +57,7 @@ Monde | http://www.monde.com.br/
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
 ntxdev | http://www.ntxdev.com.br
-Nuveo | https://www.nuveo.com.br/
+Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Onyo | http://www.onyo.com
