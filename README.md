@@ -114,6 +114,7 @@ Quez Media | http://www.quezmedia.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
+Soshace | https://soshace.com/careers
 Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
