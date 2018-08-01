@@ -23,6 +23,7 @@ Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
 Brainn.co | https://brainn.co/team/
 Brave Investments | https://www.linkedin.com/company/brave-investments
+bxblue | https://bxblue.com.br
 CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
