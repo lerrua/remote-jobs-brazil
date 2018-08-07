@@ -30,6 +30,7 @@ Cetus | http://cetus.art.br
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Cupcake Entertainment | https://www.cupcakese.com/
+DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
 Enjoei | http://www.enjoei.com.br/
