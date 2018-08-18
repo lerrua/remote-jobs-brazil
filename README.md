@@ -121,6 +121,7 @@ Soshace | https://soshace.com/careers
 Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
+Telnyx | https://telnyx.com/company/careers
 TIDY | http://gotidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
