@@ -42,9 +42,10 @@ Getty/IO | https://www.getty.io
 Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
-HE:labs | http://helabs.com/
 High Stakes Academy | http://www.hsacademy.com.br/
 iBLISS | http://www.ibliss.com.br/
+Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
+Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
