@@ -98,6 +98,7 @@ BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
+Collabora | https://www.collabora.com/careers.html
 Crave Food | http://sourcewhatsgood.com/
 Crossover | http://www.crossover.com
 Discogs | http://www.discogs.com/jobs
