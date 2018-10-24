@@ -125,7 +125,7 @@ Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
 Telnyx | https://telnyx.com/company/careers
-TIDY | http://gotidy.com/
+TIDY | https://tidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
 X-Team | http://www.x-team.com/
