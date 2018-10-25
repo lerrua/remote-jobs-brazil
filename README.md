@@ -116,8 +116,8 @@ MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
 MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
-Quez Media | http://www.quezmedia.com/
 Platform.sh | https://platform.sh/company/careers
+Quez Media | http://www.quezmedia.com/
 RedHat | https://www.redhat.com/en/global/brazil
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
