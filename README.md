@@ -51,6 +51,7 @@ JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Levpay | https://levpay.com/
 Magnetis | https://www.magnetis.com.br/
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
