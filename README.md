@@ -16,7 +16,6 @@ Agrid | https://www.linkedin.com/company/2769994/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://www.app2sales.com/
-Avante | http://www.avante.com.vc
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
