@@ -107,7 +107,6 @@ Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
 Gravity4 | http://gravity4.com/
-Happy Bear Software | https://www.happybearsoftware.com/
 Heroku | https://www.heroku.com/
 IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
