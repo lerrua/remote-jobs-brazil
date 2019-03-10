@@ -78,7 +78,6 @@ Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
-Titans Group | http://www.titansgroup.com.br/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Wiki Consultoria | https://wikiconsultoria.com.br/
