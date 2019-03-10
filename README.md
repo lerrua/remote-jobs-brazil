@@ -70,7 +70,6 @@ Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
-Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
