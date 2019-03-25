@@ -71,7 +71,6 @@ PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
-Simbiose | http://www.simbioseventures.com/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
@@ -79,7 +78,6 @@ Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
-Titans Group | http://www.titansgroup.com.br/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Wiki Consultoria | https://wikiconsultoria.com.br/
@@ -108,7 +106,6 @@ Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
 Gravity4 | http://gravity4.com/
-Happy Bear Software | https://www.happybearsoftware.com/
 Heroku | https://www.heroku.com/
 IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
