@@ -26,6 +26,7 @@ bxblue | https://bxblue.com.br
 CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
+ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Cupcake Entertainment | https://www.cupcakese.com/
@@ -38,7 +39,6 @@ Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | http://www.geobit.com.br
 Getty/IO | https://www.getty.io
-Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 High Stakes Academy | http://www.hsacademy.com.br/
