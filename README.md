@@ -20,7 +20,7 @@ BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | http://getblogo.com
-Brainn.co | https://brainn.co/team/
+Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
 CARGOBR | https://cargobr.com/
