@@ -72,6 +72,7 @@ Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
+Resultados Digitais | https://resultadosdigitais.com.br/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
