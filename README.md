@@ -15,11 +15,11 @@ Abacomm | http://www.abacomm.com.br/
 Agrid | https://www.linkedin.com/company/2769994/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Ampla Visão | http://www.amplavisao.com/
-App2Sales | http://www.app2sales.com/
+App2Sales | http://app2sales.com/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
-Blogo | http://getblogo.com
+Blogo | https://getblogo.com
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br

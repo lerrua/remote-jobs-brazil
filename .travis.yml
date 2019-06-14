@@ -5,4 +5,4 @@ before_script:
   - pip install vl
   - vl --version
 script:
-  - vl README.md --debug -w linkedin.com,jumpy.com.br,pegcar.com -a 503,405,401,403,301,302
+  - vl README.md --debug -w linkedin.com,jumpy.com.br,pegcar.com -a 503,405,406,401,403,301,302
