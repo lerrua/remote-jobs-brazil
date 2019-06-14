@@ -119,7 +119,7 @@ MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
 Platform.sh | https://platform.sh/company/careers
 Quez Media | http://www.quezmedia.com/
-RedHat | https://www.redhat.com/en/global/brazil
+RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
 Soshace | https://soshace.com/careers
