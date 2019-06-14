@@ -54,7 +54,7 @@ Levpay | https://levpay.com/
 Magnetis | https://www.magnetis.com.br/
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
-Melhores Diaristas | https://www.melhoresdiaristas.com
+Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Nexaas | http://www.nexaas.com
