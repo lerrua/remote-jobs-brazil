@@ -78,6 +78,7 @@ Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
+Stone Pagamentos | https://www.stone.com.br/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 TurboSys | http://turbosys.com.br/
