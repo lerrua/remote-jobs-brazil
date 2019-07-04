@@ -76,6 +76,7 @@ Resultados Digitais | https://resultadosdigitais.com.br/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
+Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
