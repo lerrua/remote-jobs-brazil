@@ -99,6 +99,7 @@ Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
+Bitcointrade | https://www.bitcointrade.com.br
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
 Close.io | https://jobs.lever.co/close.io/
@@ -108,7 +109,6 @@ Crossover | http://www.crossover.com
 Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
-Gravity4 | http://gravity4.com/
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 IBM | http://www.ibm.com/br-pt/
