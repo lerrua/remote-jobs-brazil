@@ -48,6 +48,7 @@ Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
+Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
