@@ -32,6 +32,7 @@ GrupoCITEC | https://grupocitec.com/
 HE:labs | http://helabs.com/
 Hite | http://www.hite.com.br/
 iBLISS | http://www.ibliss.com.br/
+Invillia | https://invillia.com/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
