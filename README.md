@@ -16,6 +16,7 @@ Agrid | https://www.linkedin.com/company/2769994/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://app2sales.com/
+Beblue | http://beblue.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
@@ -33,6 +34,7 @@ Cupcake Entertainment | https://www.cupcakese.com/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
+e-Core | https://e-core.com/pt/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Filmow | https://www.linkedin.com/company/filmow
@@ -46,12 +48,15 @@ iBLISS | http://www.ibliss.com.br/
 Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
 Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
+Invillia | https://invillia.com/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
+Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
+M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
@@ -76,6 +81,7 @@ Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
+Social Miner | https://hipsters.jobs/company/85/social-miner/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
