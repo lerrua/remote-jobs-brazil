@@ -46,6 +46,7 @@ iBLISS | http://www.ibliss.com.br/
 Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
 Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
+Invillia | https://invillia.com/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Kenoby | http://kenoby.com/
