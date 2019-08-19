@@ -49,6 +49,7 @@ Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
 Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
+Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
 Jusbrasil | https://sobre.jusbrasil.com.br/
