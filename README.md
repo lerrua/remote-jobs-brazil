@@ -34,6 +34,7 @@ Cupcake Entertainment | https://www.cupcakese.com/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
+e-Core | https://e-core.com/pt/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Filmow | https://www.linkedin.com/company/filmow
