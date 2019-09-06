@@ -124,6 +124,7 @@ IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
+Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
