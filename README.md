@@ -30,6 +30,7 @@ Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
+Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
