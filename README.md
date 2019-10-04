@@ -13,6 +13,7 @@ Name | Website
 203pixels | http://203pixels.com.br/
 Abacomm | http://www.abacomm.com.br/
 Agrid | https://www.linkedin.com/company/2769994/
+Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://app2sales.com/
