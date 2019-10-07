@@ -81,6 +81,7 @@ Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
+SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Soirtec | http://soirtec.com/
