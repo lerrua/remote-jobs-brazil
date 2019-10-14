@@ -89,6 +89,7 @@ Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
+Test IO | https://test.io/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
