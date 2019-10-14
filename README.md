@@ -87,6 +87,7 @@ Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
+Superplayer & Co | https://www.superplayer.co
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 TurboSys | http://turbosys.com.br/
