@@ -31,6 +31,7 @@ ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
 Cupcake Entertainment | https://www.cupcakese.com/
+Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
