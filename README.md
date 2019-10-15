@@ -17,12 +17,9 @@ Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/ 
 Ampla Visão | http://www.amplavisao.com/
-App2Sales | http://app2sales.com/
 Beblue | http://beblue.com.br/
-BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
-Blogo | https://getblogo.com
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
@@ -31,12 +28,11 @@ Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
-Crafters Software Studio | http://www.crafters.com.br/
 Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
-Digesto | https://www.digesto.com.br/servicos
+Digesto | https://vagas.digesto.com.br/
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
 Enjoei | http://www.enjoei.com.br/
@@ -47,7 +43,7 @@ Geobit | http://www.geobit.com.br
 Getty/IO | https://www.getty.io
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
-High Stakes Academy | http://www.hsacademy.com.br/
+High Stakes Academy | https://highstakes.co/
 iBLISS | http://www.ibliss.com.br/
 iClinic | https://vagas.iclinic.com.br/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
@@ -56,14 +52,12 @@ Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
-Jumpy | http://www.jumpy.com.br/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
-Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
