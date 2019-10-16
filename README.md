@@ -127,6 +127,7 @@ Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
+Hivelocity | https://www.hivelocity.net/about/careers/
 IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
