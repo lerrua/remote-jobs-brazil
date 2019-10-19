@@ -23,6 +23,7 @@ BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | https://getblogo.com
+BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
@@ -96,6 +97,7 @@ Stone Pagamentos | https://www.stone.com.br/
 Superplayer & Co | https://www.superplayer.co
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
+Tração | https://www.tracao.online/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
