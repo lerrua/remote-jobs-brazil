@@ -11,6 +11,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 Name | Website
 ------------ | -------
 203pixels | http://203pixels.com.br/
+A2C | https://www.a2c.com.br/
 Abacomm | http://www.abacomm.com.br/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
