@@ -53,6 +53,7 @@ iBLISS | http://www.ibliss.com.br/
 iClinic | https://vagas.iclinic.com.br/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
 Impulso (HE:labs) | https://impulso.network/
+InCuca | http://incuca.net
 Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
 Jaya | https://jaya.tech/
