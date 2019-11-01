@@ -13,7 +13,9 @@ Name | Website
 203pixels | http://203pixels.com.br/
 Abacomm | http://www.abacomm.com.br/
 Agrid | https://www.linkedin.com/company/2769994/
+Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
+Amparo Saúde | https://www.amparosaude.com.br/ 
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://app2sales.com/
 Beblue | http://beblue.com.br/
@@ -21,6 +23,7 @@ BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
 Blogo | https://getblogo.com
+BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
@@ -30,7 +33,9 @@ Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
 Crafters Software Studio | http://www.crafters.com.br/
+Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
+Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
 Easytown | https://www.linkedin.com/company/easytown
@@ -45,7 +50,8 @@ GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 High Stakes Academy | http://www.hsacademy.com.br/
 iBLISS | http://www.ibliss.com.br/
-Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
+iClinic | https://vagas.iclinic.com.br/
+Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
 Impulso (HE:labs) | https://impulso.network/
 Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
@@ -81,15 +87,18 @@ Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
+SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
 Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
+Superplayer & Co | https://www.superplayer.co
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Test IO | https://test.io/
+Tração | https://www.tracao.online/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
@@ -126,6 +135,7 @@ IBM | http://www.ibm.com/br-pt/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
+Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
@@ -134,6 +144,7 @@ OpenLaw | https://openlaw.breezy.hr
 Platform.sh | https://platform.sh/company/careers
 Quez Media | http://www.quezmedia.com/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
+RocketPower | https://www.rocketpower.io/
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
 Shaw And Partners | https://app.shawandpartners.com/
