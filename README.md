@@ -19,6 +19,7 @@ AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/ 
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://app2sales.com/
+Arctouch | https://arctouch.com/
 Beblue | http://beblue.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
@@ -119,6 +120,7 @@ Name | Website
 15five | http://www.15five.com/
 ADireto | https://adireto.com/
 Anchor Loans | http://www.anchorloans.com/
+Aubay | https://www.aubay.pt/
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
