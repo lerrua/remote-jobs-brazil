@@ -69,6 +69,7 @@ Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
+Nagro | https://nagro.com.br
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
 ntxdev | http://www.ntxdev.com.br
@@ -127,6 +128,7 @@ Close.io | https://jobs.lever.co/close.io/
 Collabora | https://www.collabora.com/careers.html
 Crave Food | http://sourcewhatsgood.com/
 Crossover | http://www.crossover.com
+DevSquad | https://devsquad.com
 Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
