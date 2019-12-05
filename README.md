@@ -98,6 +98,7 @@ Stone Pagamentos | https://www.stone.com.br/
 Superplayer & Co | https://www.superplayer.co
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
+Test IO | https://test.io/
 Tração | https://www.tracao.online/
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
@@ -113,6 +114,7 @@ Name | Website
 ------------ | -------
 10up  | http://10up.com/careers/
 15five | http://www.15five.com/
+ADireto | https://adireto.com/
 Anchor Loans | http://www.anchorloans.com/
 Auth0 | https://auth0.com/jobs
 Automattic  | https://automattic.com/work-with-us/
