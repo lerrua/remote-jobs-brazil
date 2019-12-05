@@ -19,6 +19,7 @@ AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/ 
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://app2sales.com/
+Allya | https://www.allya.com.br/
 Beblue | http://beblue.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
@@ -32,7 +33,9 @@ CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
+ClickSign | https://clicksign.com
 Colivre | http://colivre.coop.br/
+Courri | http://vaidecourri.com/
 Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
@@ -64,6 +67,7 @@ Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
+Looqbox | https://looqbox.com
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
 Maption | https://maption.com.br/
