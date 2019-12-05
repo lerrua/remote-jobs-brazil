@@ -151,6 +151,7 @@ Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
 Telnyx | https://telnyx.com/company/careers
+Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
