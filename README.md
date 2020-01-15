@@ -53,6 +53,7 @@ Getty/IO | https://www.getty.io
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 High Stakes Academy | http://www.hsacademy.com.br/
+Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
 iClinic | https://vagas.iclinic.com.br/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
