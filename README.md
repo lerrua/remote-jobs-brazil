@@ -42,6 +42,7 @@ Cupcake Entertainment | https://www.cupcakese.com/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Digesto | https://www.digesto.com.br/servicos
+Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
 Enjoei | http://www.enjoei.com.br/
@@ -68,6 +69,7 @@ Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
+Magrathea Labs | https://careers.magrathealabs.com
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
