@@ -69,6 +69,7 @@ Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
+Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
 Magrathea Labs | https://careers.magrathealabs.com
