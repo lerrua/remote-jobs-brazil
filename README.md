@@ -87,6 +87,7 @@ Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Onyo | http://www.onyo.com
 Parafuzo | http://www.parafuzo.com
+Pier | https://www.pier.digital/
 Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
 PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão/
