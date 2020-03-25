@@ -154,6 +154,7 @@ Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
 Modern Tribe | http://tri.be/about/join-our-team/
+Mindera | https://mindera.com/
 MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
 Platform.sh | https://platform.sh/company/careers
