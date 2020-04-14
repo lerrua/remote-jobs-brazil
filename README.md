@@ -19,7 +19,6 @@ Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/ 
 Ampla Visão | http://www.amplavisao.com/
-App2Sales | http://app2sales.com/
 Arctouch | https://arctouch.com/
 Beblue | http://beblue.com.br/
 BeYou | http://www.beyou.com.br
