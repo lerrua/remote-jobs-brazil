@@ -35,6 +35,7 @@ Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 Colivre | http://colivre.coop.br/
+Coodesh | https://coodesh.com/
 Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
@@ -154,6 +155,7 @@ Libring | https://libring.com/careers-developers/
 Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
+Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
