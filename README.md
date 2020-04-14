@@ -49,7 +49,7 @@ Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
-Geobit | http://www.geobit.com.br
+Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
