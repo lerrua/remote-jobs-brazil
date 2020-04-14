@@ -118,7 +118,7 @@ Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
 Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
-VML Brasil | https://www.vml.com/brazil/
+VML Brasil | https://www.vml.com/
 YACOWS | http://yacows.com.br/
 
 
