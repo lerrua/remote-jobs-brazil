@@ -162,6 +162,7 @@ Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
 MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
+OSF | https://osf.digital/careers/jobs
 Platform.sh | https://platform.sh/company/careers
 Quez Media | http://www.quezmedia.com/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
