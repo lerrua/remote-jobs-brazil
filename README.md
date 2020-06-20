@@ -48,6 +48,7 @@ e-Core | https://e-core.com/pt/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
+Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
