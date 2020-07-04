@@ -100,6 +100,7 @@ Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
+Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | http://careers.skore.io/
 SmartMEI | https://smartmei.recruiterbox.com/jobs
