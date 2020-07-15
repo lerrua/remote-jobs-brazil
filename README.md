@@ -185,6 +185,7 @@ Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
+Voxy | https://boards.greenhouse.io/voxy
 X-Team | http://www.x-team.com/
 Zapier | https://zapier.com/jobs/
 ZenDesk | https://www.zendesk.com/jobs/remote/
