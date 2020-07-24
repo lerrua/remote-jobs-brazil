@@ -125,6 +125,7 @@ Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
 VML Brasil | https://www.vml.com/
 YACOWS | http://yacows.com.br/
+Bank | https://pnbindia.com
 
 
 ## Worldwide companies that hire brazilians to work remotely:
