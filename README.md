@@ -112,6 +112,7 @@ Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
 Superplayer & Co | https://www.superplayer.co
+Sysmo | https://www.sysmo.com.br/trabalhe/
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Test IO | https://test.io/
