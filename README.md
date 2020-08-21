@@ -14,6 +14,7 @@ Name | Website
 A2C | https://www.a2c.com.br/
 Abacomm | http://www.abacomm.com.br/
 Adeva | https://adevait.com/
+AE Studio | https://ae.studio/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
