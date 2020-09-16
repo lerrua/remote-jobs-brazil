@@ -33,6 +33,7 @@ CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
+ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Coodesh | https://coodesh.com/
 Crafters Software Studio | http://www.crafters.com.br/
