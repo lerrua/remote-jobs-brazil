@@ -47,6 +47,7 @@ Digesto | https://www.digesto.com.br/servicos
 Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
+Enext | http://www.enext.com.br/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
