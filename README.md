@@ -84,7 +84,7 @@ Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
-Movidesk | https://www.movidesk.com/trabalhe-conosco/
+Movidesk | https://movidesk.com/trabalhe-conosco/
 Nagro | https://nagro.com.br
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
