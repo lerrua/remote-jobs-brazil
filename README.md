@@ -91,8 +91,8 @@ ntxdev | http://www.ntxdev.com.br
 Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
-Onyo | http://www.onyo.com
 Parafuzo | http://www.parafuzo.com
+Pede Pronto | https://pedepronto.com.br/
 Pier | https://www.pier.digital/
 Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
