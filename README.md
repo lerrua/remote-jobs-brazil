@@ -75,7 +75,7 @@ Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
 Loft | https://jobs.lever.co/loft
-Luiza Labs | http://luizalabs.com
+Luizalabs | http://luizalabs.com
 Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
