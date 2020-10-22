@@ -191,7 +191,7 @@ Teamed | http://www.teamed.io/
 Telnyx | https://telnyx.com/company/careers
 Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
-Toggl | https://toggl.com/
+Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
 Truelogic | https://www.truelogicsoftware.com/
 X-Team | http://www.x-team.com/
