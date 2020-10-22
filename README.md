@@ -190,6 +190,7 @@ Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
 Toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
+Truelogic | https://www.truelogicsoftware.com/
 X-Team | http://www.x-team.com/
 Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
