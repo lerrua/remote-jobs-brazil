@@ -47,6 +47,7 @@ Digesto | https://www.digesto.com.br/servicos
 Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
+Enext | http://www.enext.com.br/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
@@ -74,6 +75,7 @@ Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
+Levante Lab | https://levantelab.com.br/
 Loft | https://jobs.lever.co/loft
 Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
@@ -84,6 +86,7 @@ Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
+Movidesk | https://www.movidesk.com/
 Nagro | https://nagro.com.br
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
@@ -93,6 +96,7 @@ Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
+PicPay | http://picpay.gupy.io/
 Pier | https://www.pier.digital/
 Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
@@ -116,6 +120,7 @@ Startaê | https://startae.com/
 Stone Pagamentos | https://www.stone.com.br/
 Superplayer & Co | https://www.superplayer.co
 Sysmo | https://www.sysmo.com.br/trabalhe/
+Talentify | https://talentify-brasil.talentify.io/jobs
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Test IO | https://test.io/
@@ -187,8 +192,10 @@ Teamed | http://www.teamed.io/
 Telnyx | https://telnyx.com/company/careers
 Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
-Toggl | https://toggl.com/
+Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
+Truelogic | https://www.truelogicsoftware.com/
 X-Team | http://www.x-team.com/
+Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
 ZenDesk | https://www.zendesk.com/jobs/remote/
