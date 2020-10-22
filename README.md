@@ -96,6 +96,7 @@ Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
 Onyo | http://www.onyo.com
 Parafuzo | http://www.parafuzo.com
+PicPay | http://picpay.gupy.io/
 Pier | https://www.pier.digital/
 Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
