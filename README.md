@@ -77,6 +77,7 @@ Leanwork | http://leanwork.com.br/
 Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
 Loft | https://jobs.lever.co/loft
+Luizalabs | http://luizalabs.com
 Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
