@@ -112,7 +112,7 @@ Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
-Skore | http://careers.skore.io/
+Skore | https://jobs.kenoby.com/skore
 SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
