@@ -153,6 +153,7 @@ Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
 Bitcointrade | https://www.bitcointrade.com.br
+Canonical | https://canonical.com/
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
 Close.io | https://jobs.lever.co/close.io/
