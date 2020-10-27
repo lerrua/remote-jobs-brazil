@@ -41,7 +41,7 @@ Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
-Daitan | https://www.daitan.com/
+Daitan | https://careers-br.daitan.com/vagas/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
@@ -111,7 +111,6 @@ Raise | http://www.raisesistemas.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
-Sensedia | https://sensedia.com/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
