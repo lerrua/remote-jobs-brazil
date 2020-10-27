@@ -143,7 +143,7 @@ YACOWS | http://yacows.com.br/
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
 
 
-## Worldwide companies that hire brazilians to work remotely:
+## Worldwide companies that hire Brazilians to work remotely:
 
 Name | Website
 ------------ | -------
