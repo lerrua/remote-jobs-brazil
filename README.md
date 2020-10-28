@@ -78,6 +78,7 @@ Jumpy | http://www.jumpy.com.br/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Letras | https://letras.gupy.io/
 Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
 Loft | https://jobs.lever.co/loft
