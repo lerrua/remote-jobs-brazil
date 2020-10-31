@@ -13,6 +13,7 @@ Name | Website
 203pixels | http://203pixels.com.br/
 A2C | https://www.a2c.com.br/
 Abacomm | http://www.abacomm.com.br/
+Acesso Digital | https://acessodigital.gupy.io/
 Adeva | https://adevait.com/
 aftersale | https://www.indeedjobs.com/aftersale/jobs/
 Agrid | https://www.linkedin.com/company/2769994/
@@ -30,6 +31,7 @@ BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
+C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
@@ -41,7 +43,8 @@ Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
-Daitan | https://www.daitan.com/
+Daitan | https://careers-br.daitan.com/vagas/
+Darede | https://www.darede.com.br/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
@@ -53,6 +56,7 @@ Enext | http://www.enext.com.br/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
+Evolux | https://www.evolux.net.br/
 Ferreri | http://ferreri.co/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
@@ -78,6 +82,7 @@ Jumpy | http://www.jumpy.com.br/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
+Letras | https://letras.gupy.io/
 Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
 Loft | https://jobs.lever.co/loft
@@ -114,7 +119,6 @@ ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
-Sensedia | https://sensedia.com/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
@@ -150,6 +154,7 @@ Name | Website
 ------------ | -------
 10up  | http://10up.com/careers/
 15five | http://www.15five.com/
+Achieve Test Prep | https://www.achievetestprep.com/careers
 ADireto | https://adireto.com/
 AE Studio | https://ae.studio/join-us
 Anchor Loans | http://www.anchorloans.com/
