@@ -44,6 +44,7 @@ Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
 Cupcake Entertainment | https://www.cupcakese.com/
 Daitan | https://careers-br.daitan.com/vagas/
+Darede | https://www.darede.com.br/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
