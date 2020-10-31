@@ -53,6 +53,7 @@ Enext | http://www.enext.com.br/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
+Evolux | https://www.evolux.net.br/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
 Finxi | http://finxi.com.br/
