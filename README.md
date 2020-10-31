@@ -180,6 +180,7 @@ Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
 IBM | http://www.ibm.com/br-pt/
+Indeed | https://www.indeed.com/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
