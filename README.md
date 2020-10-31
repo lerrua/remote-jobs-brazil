@@ -13,6 +13,7 @@ Name | Website
 203pixels | http://203pixels.com.br/
 A2C | https://www.a2c.com.br/
 Abacomm | http://www.abacomm.com.br/
+Acesso Digital | https://acessodigital.gupy.io/
 Adeva | https://adevait.com/
 aftersale | https://www.indeedjobs.com/aftersale/jobs/
 Agrid | https://www.linkedin.com/company/2769994/
