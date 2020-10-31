@@ -31,6 +31,7 @@ BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
+C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
