@@ -125,6 +125,7 @@ Skore | https://jobs.kenoby.com/skore
 SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
 SodaVirtual | https://www.linkedin.com/company/soda-virtual
+SoftExpert Software | https://www.softexpert.com.br/
 Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
