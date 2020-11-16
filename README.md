@@ -120,6 +120,7 @@ ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
+Ribon | https://www.ribon.io/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
