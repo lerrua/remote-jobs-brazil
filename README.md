@@ -19,7 +19,7 @@ aftersale | https://www.indeedjobs.com/aftersale/jobs/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
-Amparo Saúde | https://www.amparosaude.com.br/ 
+Amparo Saúde | https://www.amparosaude.com.br/
 Ampla Visão | http://www.amplavisao.com/
 Arctouch | https://arctouch.com/
 Beblue | http://beblue.com.br/
@@ -39,6 +39,7 @@ ChefsClub | https://www.chefsclub.com.br/
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Coodesh | https://coodesh.com/
+Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
