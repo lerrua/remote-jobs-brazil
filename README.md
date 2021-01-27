@@ -10,8 +10,8 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 
 Name | Website
 ------------ | -------
-203pixels | http://203pixels.com.br/
-A2C | https://www.a2c.com.br/
+203pixels | https://www.linkedin.com/company/203-pixels/
+A2C | https://www.briviagroup.com.br/
 Abacomm | http://www.abacomm.com.br/
 Acesso Digital | https://acessodigital.gupy.io/
 Adeva | https://adevait.com/
