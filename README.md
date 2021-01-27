@@ -178,6 +178,7 @@ DevSquad | https://devsquad.com
 Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
+Findwrk | https://www.findwrk.app/remote-jobs
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
