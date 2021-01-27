@@ -145,6 +145,7 @@ TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
+Vnda | https://www.vnda.com.br
 Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
 VML Brasil | https://www.vml.com/
