@@ -38,6 +38,7 @@ Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
+Cognyte | https://www.cognyte.com/
 Coodesh | https://coodesh.com/
 Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
