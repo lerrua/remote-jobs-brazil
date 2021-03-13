@@ -169,6 +169,7 @@ Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
 Bitcointrade | https://www.bitcointrade.com.br
+BriteCore | https://www.britecore.com/careers
 Canonical | https://canonical.com/
 Codestunts | https://codestunts.com
 Clevertech | http://www.clevertech.biz/
