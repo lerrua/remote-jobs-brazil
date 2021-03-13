@@ -204,7 +204,7 @@ RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920-
 Remote Crew | https://remotecrew.io
 RocketPower | https://www.rocketpower.io/
 Scalable Path | https://www.scalablepath.com/apply
-ScrapingHub | http://scrapinghub.com/jobs/
+Zyte(ex-ScrapingHub) | https://www.zyte.com/jobs/
 Shaw And Partners | https://app.shawandpartners.com/
 Soshace | https://soshace.com/careers
 Stack Exchange | http://stackexchange.com/work-here
