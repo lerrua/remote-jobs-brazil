@@ -44,7 +44,7 @@ Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
 Credere | https://meucredere.com.br
-Cupcake Entertainment | https://www.cupcakese.com/
+Cupcake Entertainment | https://www.linkedin.com/company/cupcake-entertainment/
 Daitan | https://careers-br.daitan.com/vagas/
 Darede | https://www.darede.com.br/
 Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
