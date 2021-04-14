@@ -145,11 +145,12 @@ TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
+VML Brasil | https://www.vml.com/
 Vnda | https://www.vnda.com.br
+VTEX | https://www.vtex.com/
 Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
-VML Brasil | https://www.vml.com/
-VTEX | https://www.vtex.com/
+XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
 
@@ -200,6 +201,7 @@ MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
 OSF | https://osf.digital/careers/jobs
 Platform.sh | https://platform.sh/company/careers
+Praxent | https://praxent.com/
 Quez Media | http://www.quezmedia.com/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
 Remote Crew | https://remotecrew.io
