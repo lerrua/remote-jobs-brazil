@@ -132,13 +132,14 @@ SoftExpert Software | https://www.softexpert.com.br/
 Soirtec | http://soirtec.com/
 Squad | http://www.socialsquad.co
 Startaê | https://startae.com/
-Stone Pagamentos | https://www.stone.com.br/
+StoneCo. | https://boards.greenhouse.io/stone
 Superplayer & Co | https://www.superplayer.co
 Sysmo | https://www.sysmo.com.br/trabalhe/
 Talentify | https://talentify-brasil.talentify.io/jobs
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
 Test IO | https://test.io/
+Ton | https://www.ton.com.br/
 Trackmob | https://trackmob.com.br/
 Tração | https://www.tracao.online/
 TurboSys | http://turbosys.com.br/
