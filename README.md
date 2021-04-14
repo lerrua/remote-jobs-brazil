@@ -207,6 +207,7 @@ Praxent | https://praxent.com/
 Quez Media | http://www.quezmedia.com/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
 Remote Crew | https://remotecrew.io
+Remotesome | https://www.remotesome.com
 RocketPower | https://www.rocketpower.io/
 Scalable Path | https://www.scalablepath.com/apply
 ScrapingHub | http://scrapinghub.com/jobs/
