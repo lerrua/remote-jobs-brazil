@@ -210,7 +210,6 @@ Remote Crew | https://remotecrew.io
 Remotesome | https://www.remotesome.com
 RocketPower | https://www.rocketpower.io/
 Scalable Path | https://www.scalablepath.com/apply
-ScrapingHub | http://scrapinghub.com/jobs/
 Shaw And Partners | https://app.shawandpartners.com/
 Soshace | https://soshace.com/careers
 Stack Exchange | http://stackexchange.com/work-here
@@ -228,3 +227,4 @@ Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
 ZenDesk | https://www.zendesk.com/jobs/remote/
 Zup | https://www.zup.com.br/
+Zyte(ex-ScrapingHub) | https://www.zyte.com/jobs/
