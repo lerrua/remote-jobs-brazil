@@ -149,6 +149,7 @@ Vnda | https://www.vnda.com.br
 Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
 VML Brasil | https://www.vml.com/
+VTEX | https://www.vtex.com/
 YACOWS | http://yacows.com.br/
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
 
