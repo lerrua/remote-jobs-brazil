@@ -69,6 +69,7 @@ Getty/IO | https://www.getty.io
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 High Stakes Academy | http://www.hsacademy.com.br/
+Hi Platform | https://hiplatform.gupy.io/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
 iClinic | https://vagas.iclinic.com.br/
