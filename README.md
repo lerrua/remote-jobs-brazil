@@ -191,7 +191,7 @@ Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
 IBM | http://www.ibm.com/br-pt/
 Indeed | https://www.indeed.com/
-Ioasys | https://ioasys.com.br/
+Ioasys | https://ioasys.gupy.io/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
