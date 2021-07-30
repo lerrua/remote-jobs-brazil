@@ -81,6 +81,7 @@ Invillia | https://invillia.com/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
+Juntos Somos Mais | https://juntossomosmais.gupy.io/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
