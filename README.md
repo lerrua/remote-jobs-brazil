@@ -78,6 +78,7 @@ Inova e-Business | https://www.inovaebiz.com.br/
 InCuca | http://incuca.net
 Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
+Ioasys | https://ioasys.gupy.io/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
@@ -191,7 +192,6 @@ Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
 IBM | http://www.ibm.com/br-pt/
 Indeed | https://www.indeed.com/
-Ioasys | https://ioasys.gupy.io/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
