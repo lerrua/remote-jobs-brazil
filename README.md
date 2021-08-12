@@ -89,6 +89,7 @@ Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
 Loft | https://jobs.lever.co/loft
 Luizalabs | http://luizalabs.com
+Lyncas | https://www.linkedin.com/company/lyncasnet/posts/
 Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
