@@ -155,6 +155,7 @@ Wiki Consultoria | https://wikiconsultoria.com.br/
 XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
+Pipz | https://pipz.com/br/trabalhe-conosco/
 
 
 ## Worldwide companies that hire brazilians to work remotely:
