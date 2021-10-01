@@ -98,6 +98,7 @@ Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
+Monitora Soluções Tecnológicas | https://www.monitoratec.com.br/ 
 Movidesk | https://www.movidesk.com/
 Nagro | https://nagro.com.br
 Navi Capital | https://www.navi.com.br/
