@@ -57,6 +57,7 @@ Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
+Hash | https://www.hash.com.br/
 High Stakes Academy | http://www.hsacademy.com.br/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
