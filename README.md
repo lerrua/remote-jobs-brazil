@@ -51,6 +51,7 @@ Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
 Digesto | https://www.digesto.com.br/servicos
+Dock | https://dock.gupy.io/
 Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
