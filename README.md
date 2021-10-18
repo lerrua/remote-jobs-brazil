@@ -96,6 +96,7 @@ Magrathea Labs | https://careers.magrathealabs.com
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
+Meltwater | https://www.meltwater.com
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
