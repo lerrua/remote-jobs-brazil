@@ -196,7 +196,7 @@ Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
 Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
-MadeWithLove | https://madewithlove.be/
+madewithlove | https://madewithlove.com/
 Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
