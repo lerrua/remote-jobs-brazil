@@ -33,6 +33,7 @@ Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
 C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
+Casting Networks | https://www.castingnetworks.com
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
