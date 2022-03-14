@@ -87,6 +87,7 @@ Leanwork | http://leanwork.com.br/
 Letras | https://letras.gupy.io/
 Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
+LocalizaLabs | https://portalcarreira.localiza.com/vagas/tecnologia-localizalabs?areaId=4d8df57a-fb4d-46dc-b1e2-d469a39b9fe3
 Loft | https://jobs.lever.co/loft
 Luizalabs | http://luizalabs.com
 Lyseon Tech | http://lt.coop.br/
@@ -117,6 +118,7 @@ PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão
 Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
+Raro Labs | https://rarolabs.com.br/
 Raise | http://www.raisesistemas.com.br/
 ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
@@ -145,6 +147,7 @@ Trackmob | https://trackmob.com.br/
 Tração | https://www.tracao.online/
 TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
+Valtech | https://www.valtech.com/pt-br/carreiras/vagas/?countryBrazil
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
 VML Brasil | https://www.vml.com/
@@ -169,10 +172,12 @@ AE Studio | https://ae.studio/join-us
 Anchor Loans | http://www.anchorloans.com/
 Aubay | https://www.aubay.pt/
 Auth0 | https://auth0.com/jobs
+Authority Partners | https://www.authoritypartners.com/careers/
 Automattic  | https://automattic.com/work-with-us/
 BairesDev | http://www.bairesdev.com/
 Bandcamp | https://bandcamp.com/jobs
 Bitcointrade | https://www.bitcointrade.com.br
+Bocada | https://www.bocada.com/company/careers/
 BriteCore | https://www.britecore.com/careers
 Canonical | https://canonical.com/
 Codestunts | https://codestunts.com
@@ -182,10 +187,12 @@ ClubHouse | https://clubhouse.io/careers
 Collabora | https://www.collabora.com/careers.html
 Crave Food | http://sourcewhatsgood.com/
 Crossover | http://www.crossover.com
+Dev.Pro | https://dev.pro/
 DevSquad | https://devsquad.com
 Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
+GovSpend | https://govspend.com/careers/#openpositions
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
@@ -197,18 +204,22 @@ Libring | https://libring.com/careers-developers/
 Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
+Mahisoft | https://www.mahisoft.com/
 Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
 MustHaveMenus | http://www.musthavemenus.com/
+Number8 | https://number8.com/job-opportunities/
 OpenLaw | https://openlaw.breezy.hr
 OSF | https://osf.digital/careers/jobs
+Plan A | https://planatechnologies.peopleforce.io/careers
 Platform.sh | https://platform.sh/company/careers
 Praxent | https://praxent.com/
 Quez Media | http://www.quezmedia.com/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
 Remote Crew | https://remotecrew.io
 Remotesome | https://www.remotesome.com
+Right Balance | https://rightbalance.io/
 RocketPower | https://www.rocketpower.io/
 Scalable Path | https://www.scalablepath.com/apply
 Shaw And Partners | https://app.shawandpartners.com/
@@ -223,6 +234,7 @@ TinkerList.tv | https://tinkerlist.tv/jobs/
 Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
 Truelogic | https://www.truelogicsoftware.com/
+Vigil | https://www.vigil.global/work-with-us
 X-Team | http://www.x-team.com/
 Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
