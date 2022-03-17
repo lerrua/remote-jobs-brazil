@@ -218,6 +218,7 @@ Mindera | https://mindera.com/
 MustHaveMenus | http://www.musthavemenus.com/
 OpenLaw | https://openlaw.breezy.hr
 OSF | https://osf.digital/careers/jobs
+OpcionEmpleo | https://www.opcionempleo.com/
 Platform.sh | https://platform.sh/company/careers
 Praxent | https://praxent.com/
 Quez Media | http://www.quezmedia.com/
