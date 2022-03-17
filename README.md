@@ -33,12 +33,14 @@ Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
 C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
+Casting Networks | https://www.castingnetworks.com
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
+Compasso UOL | https://compassouol.com/
 Coodesh | https://coodesh.com/
 Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
@@ -51,6 +53,7 @@ Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
 Digesto | https://www.digesto.com.br/servicos
+Dock | https://dock.gupy.io/
 Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
@@ -59,6 +62,7 @@ Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
 Evolux | https://www.evolux.net.br/
+FCamara | https://www.fcamara.com.br/
 Ferreri | http://ferreri.co/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
@@ -67,8 +71,10 @@ Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
 GFT | https://www.gft.com/br/
+Gerencianet | https://jobs.kenoby.com/gerencianet/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
+Hash | https://www.hash.com.br/
 High Stakes Academy | http://www.hsacademy.com.br/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
@@ -97,6 +103,7 @@ Magrathea Labs | https://careers.magrathealabs.com
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
+Meltwater | https://www.meltwater.com
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
@@ -107,6 +114,7 @@ Nossas Cidades | http://www.nossascidades.org/
 ntxdev | http://www.ntxdev.com.br
 Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
+Objective | https://www.objective.com.br/
 Olist | https://olist.com
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
@@ -119,11 +127,13 @@ Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
+R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
 Ribon | https://www.ribon.io/
+Rock Content | https://rockcontent.com/careers/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
@@ -144,6 +154,7 @@ Test IO | https://test.io/
 Ton | https://www.ton.com.br/
 Trackmob | https://trackmob.com.br/
 Tração | https://www.tracao.online/
+TradersClub | https://tc.com.br
 TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Velociti | http://www.velociti.com.br/
@@ -197,7 +208,7 @@ Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
 Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
-MadeWithLove | https://madewithlove.be/
+madewithlove | https://madewithlove.com/
 Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
@@ -224,6 +235,7 @@ TinkerList.tv | https://tinkerlist.tv/jobs/
 Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
 Truelogic | https://www.truelogicsoftware.com/
+Vigil | https://vigil.global
 X-Team | http://www.x-team.com/
 Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
