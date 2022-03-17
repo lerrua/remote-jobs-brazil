@@ -106,6 +106,7 @@ Nossas Cidades | http://www.nossascidades.org/
 ntxdev | http://www.ntxdev.com.br
 Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
+Objective | https://www.objective.com.br/
 Olist | https://olist.com
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
