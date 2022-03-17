@@ -33,12 +33,14 @@ Brave Investments | https://www.linkedin.com/company/brave-investments
 bxblue | https://bxblue.com.br
 C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
+Casting Networks | https://www.castingnetworks.com
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
+Compasso UOL | https://compassouol.com/
 Coodesh | https://coodesh.com/
 Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
@@ -51,6 +53,7 @@ Data Science Brigade | https://hipsters.jobs/company/2310/data-science-brigade/
 DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
 Digesto | https://www.digesto.com.br/servicos
+Dock | https://dock.gupy.io/
 Dolux | http://www.dolux.com.br
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
@@ -59,6 +62,7 @@ Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
 Evolux | https://www.evolux.net.br/
+FCamara | https://www.fcamara.com.br/
 Ferreri | http://ferreri.co/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
@@ -66,9 +70,13 @@ Finxi | http://finxi.com.br/
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
+Gerencianet | https://jobs.kenoby.com/gerencianet/
+GFT | https://www.gft.com/br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
+Hash | https://www.hash.com.br/
 High Stakes Academy | http://www.hsacademy.com.br/
+Hi Platform | https://hiplatform.gupy.io/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
 iClinic | https://vagas.iclinic.com.br/
@@ -78,6 +86,7 @@ Inova e-Business | https://www.inovaebiz.com.br/
 InCuca | http://incuca.net
 Instruct | http://instruct.com.br/jobs
 Invillia | https://invillia.com/
+Ioasys | https://ioasys.gupy.io/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
@@ -97,6 +106,7 @@ Magrathea Labs | https://careers.magrathealabs.com
 Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
+Meltwater | https://www.meltwater.com
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
@@ -121,11 +131,13 @@ Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Raro Labs | https://rarolabs.com.br/
+R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
 Ribon | https://www.ribon.io/
+Rock Content | https://rockcontent.com/careers/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
@@ -146,6 +158,7 @@ Test IO | https://test.io/
 Ton | https://www.ton.com.br/
 Trackmob | https://trackmob.com.br/
 Tração | https://www.tracao.online/
+TradersClub | https://tc.com.br
 TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Valtech | https://www.valtech.com/pt-br/carreiras/vagas/?countryBrazil
@@ -194,6 +207,7 @@ Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
 GovSpend | https://govspend.com/careers/#openpositions
+GraphCMS | https://jobs.graphcms.com
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
@@ -206,6 +220,7 @@ Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 MadeWithLove | https://madewithlove.be/
 Mahisoft | https://www.mahisoft.com/
+madewithlove | https://madewithlove.com/
 Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
