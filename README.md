@@ -230,6 +230,7 @@ TinkerList.tv | https://tinkerlist.tv/jobs/
 Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
 Truelogic | https://www.truelogicsoftware.com/
+Vigil | https://vigil.global
 X-Team | http://www.x-team.com/
 Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
