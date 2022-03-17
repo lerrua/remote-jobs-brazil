@@ -119,7 +119,6 @@ PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão
 Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
-Raro Labs | https://rarolabs.com.br/
 Raise | http://www.raisesistemas.com.br/
 Raro Labs | https://rarolabs.com.br/
 ReclameAQUI | https://www.reclameaqui.com.br/
