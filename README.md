@@ -70,6 +70,7 @@ Finxi | http://finxi.com.br/
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
+Globo | https://vempraglobo.recruiterbox.com/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 Hash | https://www.hash.com.br/
