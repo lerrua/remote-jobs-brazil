@@ -40,6 +40,7 @@ ChefsClub | https://www.chefsclub.com.br/
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
+Compasso UOL | https://compassouol.com/
 Coodesh | https://coodesh.com/
 Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
