@@ -218,7 +218,6 @@ Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
 Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
-MadeWithLove | https://madewithlove.be/
 Mahisoft | https://www.mahisoft.com/
 madewithlove | https://madewithlove.com/
 Mcontigo | https://mcontigo.com/
