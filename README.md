@@ -22,6 +22,7 @@ AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/
 Ampla Visão | http://www.amplavisao.com/
 Arctouch | https://arctouch.com/
+ATTA | https://atta.gupy.io/
 Beblue | http://beblue.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
