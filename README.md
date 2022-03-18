@@ -120,6 +120,7 @@ Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
 Objective | https://www.objective.com.br/
 Olist | https://olist.com
+Pagseguro | https://pagseguro.uol.com.br/
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
 PicPay | http://picpay.gupy.io/
@@ -232,6 +233,7 @@ Plan A | https://planatechnologies.peopleforce.io/careers
 Platform.sh | https://platform.sh/company/careers
 Praxent | https://praxent.com/
 Quez Media | http://www.quezmedia.com/
+QuintoAndar | https://www.quintoandar.com.br/
 RedHat | https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12920--Remote
 Remote Crew | https://remotecrew.io
 Remotesome | https://www.remotesome.com
