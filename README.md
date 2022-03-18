@@ -220,7 +220,6 @@ Loadsmart | https://loadsmart.com/careers/
 LocalLabs | http://www.locallabs.com/
 Mahisoft | https://www.mahisoft.com/
 madewithlove | https://madewithlove.com/
-Mahisoft | https://www.mahisoft.com/
 Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
