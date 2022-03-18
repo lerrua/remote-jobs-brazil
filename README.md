@@ -20,7 +20,7 @@ Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
 Amparo Saúde | https://www.amparosaude.com.br/
-Ampla Visão | http://www.amplavisao.com/ 
+Ampla Visão | http://www.amplavisao.com/
 Arctouch | https://arctouch.com/
 ATTA | https://atta.gupy.io/
 Beblue | http://beblue.com.br/
