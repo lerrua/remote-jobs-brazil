@@ -37,6 +37,7 @@ Casting Networks | https://www.castingnetworks.com
 Catarse | https://www.catarse.me/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
+CI&T | https://ciandt.com/br/pt-br/carreiras/oportunidades
 ClickSign | https://www.clicksign.com/
 Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
