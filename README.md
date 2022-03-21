@@ -92,6 +92,7 @@ Ioasys | https://ioasys.gupy.io/
 Jaya | https://jaya.tech/
 JMS Comunicação | http://jmscomunicacao.com.br/
 Jumpy | http://www.jumpy.com.br/
+Juntos Somos Mais | https://linkedin.com/company/juntos-somos-mais/jobs/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
 Leanwork | http://leanwork.com.br/
