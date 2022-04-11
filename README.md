@@ -142,6 +142,7 @@ Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
 Ribon | https://www.ribon.io/
 Rock Content | https://rockcontent.com/careers/
+Sambatech | https://sambatech.kula.jobs/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
 Skore | https://jobs.kenoby.com/skore
