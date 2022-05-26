@@ -137,6 +137,7 @@ Raise | http://www.raisesistemas.com.br/
 Raro Labs | https://rarolabs.com.br/
 R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
+Remessa Online | https://jobs.kenoby.com/remessaonline/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
