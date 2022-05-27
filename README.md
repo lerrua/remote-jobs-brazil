@@ -162,6 +162,7 @@ TecSinapse | http://www.tecsinapse.com.br
 Test IO | https://test.io/
 Ton | https://www.ton.com.br/
 Trackmob | https://trackmob.com.br/
+Tractian | https://tractian.com/carreiras
 Tração | https://www.tracao.online/
 TradersClub | https://tc.com.br
 TurboSys | http://turbosys.com.br/
