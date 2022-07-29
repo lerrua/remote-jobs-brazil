@@ -16,6 +16,7 @@ Abacomm | http://www.abacomm.com.br/
 Acesso Digital | https://acessodigital.gupy.io/
 Adeva | https://adevait.com/
 aftersale | https://www.indeedjobs.com/aftersale/jobs/
+Afya | https://afya.gupy.io/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
