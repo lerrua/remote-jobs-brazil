@@ -43,6 +43,7 @@ Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 CI&T | https://ciandt.com/br/pt-br/carreiras/oportunidades
 ClickSign | https://www.clicksign.com/
+ClubeFII | https://www.clubefii.com.br/
 Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
 Compasso UOL | https://compassouol.com/
