@@ -118,6 +118,7 @@ MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
 Nagro | https://nagro.com.br
+Nasajon | https://nasajon.com.br/
 Navi Capital | https://www.navi.com.br/
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
