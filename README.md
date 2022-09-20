@@ -99,6 +99,7 @@ Jumpy | http://www.jumpy.com.br/
 Juntos Somos Mais | https://linkedin.com/company/juntos-somos-mais/jobs/
 Jusbrasil | https://sobre.jusbrasil.com.br/
 Kenoby | http://kenoby.com/
+Kobana | https://www.kobana.com.br/
 Leanwork | http://leanwork.com.br/
 Letras | https://letras.gupy.io/
 Levpay | https://levpay.com/
