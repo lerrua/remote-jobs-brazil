@@ -14,6 +14,7 @@ Name | Website
 A2C | https://www.briviagroup.com.br/
 Abacomm | http://www.abacomm.com.br/
 Acesso Digital | https://acessodigital.gupy.io/
+Accenture | https://www.accenture.com/br-pt/careers
 Adeva | https://adevait.com/
 aftersale | https://www.indeedjobs.com/aftersale/jobs/
 Afya | https://afya.gupy.io/
@@ -176,6 +177,7 @@ TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Valtech | https://www.valtech.com/pt-br/carreiras/vagas/?countryBrazil
 Velociti | http://www.velociti.com.br/
+Vetta | https://vetta.com.br/en/careers
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
 VML Brasil | https://www.vml.com/
 Vnda | https://www.vnda.com.br
