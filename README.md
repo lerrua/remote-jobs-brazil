@@ -129,6 +129,7 @@ Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
 PicPay | http://picpay.gupy.io/
 Pier | https://www.pier.digital/
+PiniOn | https://pinion.app
 Pipefy | https://www.pipefy.com/jobs/
 Pismo | http://pismo.io/
 PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão/
