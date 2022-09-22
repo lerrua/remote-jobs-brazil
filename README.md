@@ -176,6 +176,7 @@ TradersClub | https://tc.com.br
 TurboSys | http://turbosys.com.br/
 Unbanked | https://www.unbanked.com.br/
 Valtech | https://www.valtech.com/pt-br/carreiras/vagas/?countryBrazil
+ValueCoders | https://www.valuecoders.com/
 Velociti | http://www.velociti.com.br/
 Vetta | https://vetta.com.br/en/careers
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
