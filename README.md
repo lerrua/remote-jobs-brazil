@@ -229,6 +229,7 @@ Hivelocity | https://www.hivelocity.net/about/careers/
 IBM | http://www.ibm.com/br-pt/
 Indeed | https://www.indeed.com/
 Jobsity | https://www.jobsity.com/
+Kinsta  | https://kinsta.com/careers/
 Lev Interactive | http://lev-interactive.com/
 Living Social | https://www.livingsocial.com/
 Libring | https://libring.com/careers-developers/
