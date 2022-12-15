@@ -28,6 +28,7 @@ Arctouch | https://arctouch.com/
 ATTA | https://atta.gupy.io/
 Beblue | http://beblue.com.br/
 BEON Tech | http://beon.studio/careers
+Beyond Soluções | https://imaginebeyond.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
