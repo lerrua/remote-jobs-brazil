@@ -131,6 +131,7 @@ Núcleo Digital | http://www.nucleodigital.cc
 Objective | https://www.objective.com.br/
 Olist | https://olist.com
 Pagseguro | https://pagseguro.uol.com.br/
+Pasquali Solution | https://www.pasqualisolution.com.br/
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
 PicPay | http://picpay.gupy.io/
