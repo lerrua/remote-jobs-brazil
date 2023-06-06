@@ -70,6 +70,7 @@ Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
 ETEG | https://eteg.solides.jobs/
 Evolux | https://www.evolux.net.br/
+Fanatee | https://www.fanatee.com/#careers
 FCamara | https://www.fcamara.com.br/
 Ferreri | http://ferreri.co/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
@@ -87,6 +88,7 @@ High Stakes Academy | http://www.hsacademy.com.br/
 Hi Platform | https://hiplatform.gupy.io/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
+Icaro Tech | https://icarotech.gupy.io
 iClinic | https://vagas.iclinic.com.br/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
 Impulso (HE:labs) | https://impulso.network/
@@ -269,6 +271,7 @@ Toggl | https://toggl.com/jobs/
 Toptal | http://www.toptal.com/
 Truelogic | https://www.truelogicsoftware.com/
 Vigil | https://www.vigil.global/work-with-us
+WEX | https://www.wexinc.com/about/careers/
 X-Team | http://www.x-team.com/
 Yoko Co. | https://yokoco.com/careers/
 Zapier | https://zapier.com/jobs/
