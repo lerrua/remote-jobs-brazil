@@ -113,7 +113,6 @@ Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
 Magrathea Labs | https://careers.magrathealabs.com
-Maption | https://maption.com.br/
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 Meltwater | https://www.meltwater.com
