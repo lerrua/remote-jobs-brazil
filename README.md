@@ -41,6 +41,7 @@ C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
 Casting Networks | https://www.castingnetworks.com
 Catarse | https://www.catarse.me/
+CESAR | https://cesar.breezy.hr/
 Cetus | http://cetus.art.br
 ChefsClub | https://www.chefsclub.com.br/
 CI&T | https://ciandt.com/br/pt-br/carreiras/oportunidades
