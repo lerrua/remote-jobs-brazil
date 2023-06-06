@@ -68,6 +68,7 @@ Enext | http://www.enext.com.br/
 Enjoei | http://www.enjoei.com.br/
 Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
+ETEG | https://eteg.solides.jobs/
 Evolux | https://www.evolux.net.br/
 FCamara | https://www.fcamara.com.br/
 Ferreri | http://ferreri.co/
