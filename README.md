@@ -185,7 +185,6 @@ Vimbo Tecnologia LTDA | https://vimbo.com.br/
 VML Brasil | https://www.vml.com/
 Vnda | https://www.vnda.com.br
 VTEX | https://www.vtex.com/
-Walltime | https://walltime.info
 Wiki Consultoria | https://wikiconsultoria.com.br/
 XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
