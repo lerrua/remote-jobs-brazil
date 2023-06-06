@@ -62,6 +62,7 @@ Dextra Mutant | https://apply.workable.com/dextra/
 Digesto | https://www.digesto.com.br/servicos
 Dock | https://dock.gupy.io/
 Dolux | http://www.dolux.com.br
+Dot Digital Group | https://dotgroup.com.br/
 Easytown | https://www.linkedin.com/company/easytown
 e-Core | https://e-core.com/pt/
 Enext | http://www.enext.com.br/
