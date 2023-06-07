@@ -19,7 +19,7 @@ aftersale | https://www.indeedjobs.com/aftersale/jobs/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
-Alpargatas | https://www.alpargatas.com.br/#/conheca-empresa
+Alpargatas | https://alpargatas.gupy.io/
 Amparo Saúde | https://www.amparosaude.com.br/
 Ampla Visão | http://www.amplavisao.com/
 Arctouch | https://arctouch.com/
