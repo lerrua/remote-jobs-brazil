@@ -21,6 +21,7 @@ Afya | https://afya.gupy.io/
 Agrid | https://www.linkedin.com/company/2769994/
 Akkurat | https://www.akkuratsofthouse.com/
 AlgaWorks | https://algaworks.recruiterbox.com/
+Alpargatas | https://alpargatas.gupy.io/
 Amazon | https://www.amazon.jobs/en/search?base_query=&loc_query=Brazil&country=BRA/
 Amparo Saúde | https://www.amparosaude.com.br/
 Ampla Visão | http://www.amplavisao.com/
