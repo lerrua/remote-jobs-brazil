@@ -36,6 +36,7 @@ Blogo | https://getblogo.com
 BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
+Builders | https://builders.gupy.io/
 bxblue | https://bxblue.com.br
 C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
