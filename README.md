@@ -195,6 +195,7 @@ VTEX | https://www.vtex.com/
 Wiki Consultoria | https://wikiconsultoria.com.br/
 XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
+Yaman | https://vemprayaman.gupy.io
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
 
 
@@ -250,6 +251,7 @@ Mcontigo | https://mcontigo.com/
 Modern Tribe | http://tri.be/about/join-our-team/
 Mindera | https://mindera.com/
 MustHaveMenus | http://www.musthavemenus.com/
+Nearsure | https://nearsure.com/job-opportunities/
 Number8 | https://number8.com/job-opportunities/
 OpenLaw | https://openlaw.breezy.hr
 OSF | https://osf.digital/careers/jobs
