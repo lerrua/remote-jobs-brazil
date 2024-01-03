@@ -155,6 +155,7 @@ Raízen | https://genteraizen.gupy.io/
 Raro Labs | https://rarolabs.com.br/
 R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
+Reduza | https://www.reduza.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
@@ -163,6 +164,7 @@ Rock Content | https://rockcontent.com/careers/
 Sambatech | https://sambatech.kula.jobs/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
+Site Confiável | https://www.siteconfiavel.com.br/
 Skore | https://jobs.kenoby.com/skore
 SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
