@@ -150,6 +150,7 @@ PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão
 Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
 Prime Systems | http://www.primesystems.com.br/
+Pulse | https://portal.gupy.io/en/job-search/term=puls
 Raise | http://www.raisesistemas.com.br/
 Raízen | https://genteraizen.gupy.io/
 Raro Labs | https://rarolabs.com.br/
