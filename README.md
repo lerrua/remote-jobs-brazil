@@ -190,6 +190,7 @@ Unbanked | https://www.unbanked.com.br/
 Valtech | https://www.valtech.com/pt-br/carreiras/vagas/?countryBrazil
 ValueCoders | https://www.valuecoders.com/
 Velociti | http://www.velociti.com.br/
+Vert | https://vert.vagas.solides.com.br/
 Vetta | https://vetta.com.br/en/careers
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
 VML Brasil | https://www.vml.com/
