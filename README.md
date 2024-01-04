@@ -33,6 +33,7 @@ Beyond Soluções | https://imaginebeyond.com.br/
 BeYou | http://www.beyou.com.br
 Bidu Corretora | https://www.bidu.com.br/
 Bikoo | https://www.linkedin.com/company/9479291
+Blip | https://blip.gupy.io/
 Blogo | https://getblogo.com
 BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
@@ -54,6 +55,7 @@ Colivre | http://colivre.coop.br/
 Cognyte | https://www.linkedin.com/company/cognyte/mycompany/
 Compasso UOL | https://compassouol.com/
 Coodesh | https://coodesh.com/
+Corebiz | https://corebiz.gupy.io/
 Cortex Intelligence | https://cortex-intelligence.com/
 Crafters Software Studio | http://www.crafters.com.br/
 Crawly | https://www.crawly.com.br/
@@ -117,6 +119,7 @@ Levante Lab | https://levantelab.com.br/
 LocalizaLabs | https://portalcarreira.localiza.com/vagas/tecnologia-localizalabs?areaId=4d8df57a-fb4d-46dc-b1e2-d469a39b9fe3
 Loft | https://jobs.lever.co/loft
 Luizalabs | http://luizalabs.com
+Lyncas | https://lyncas.gupy.io/
 Lyseon Tech | http://lt.coop.br/
 M4U | https://www.m4u.com.br
 Magnetis | https://www.magnetis.com.br/
@@ -194,13 +197,14 @@ Vetta | https://vetta.com.br/en/careers
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
 VML Brasil | https://www.vml.com/
 Vnda | https://www.vnda.com.br
+Vórtx | https://vortxtech.gupy.io/
 VTEX | https://www.vtex.com/
 Wiki Consultoria | https://wikiconsultoria.com.br/
 XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
 Yaman | https://vemprayaman.gupy.io
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
-
+Zallpy | https://zallpy.gupy.io/
 
 ## Worldwide companies that hire brazilians to work remotely:
 
