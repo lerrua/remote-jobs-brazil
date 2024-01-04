@@ -228,6 +228,7 @@ Clevertech | http://www.clevertech.biz/
 Close.io | https://jobs.lever.co/close.io/
 ClubHouse | https://clubhouse.io/careers
 Collabora | https://www.collabora.com/careers.html
+CriticalRiver | https://www.criticalriver.com/  
 Crossover | http://www.crossover.com
 Dev.Pro | https://dev.pro/
 DevSquad | https://devsquad.com
