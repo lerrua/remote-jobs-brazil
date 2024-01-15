@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Remote Jobs Brazil</title>
+<style>
+    body {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        background-color: rgb(15, 17, 49);
+        color: aliceblue;
+    }
+
+    .principal {
+        text-align: center;
+    }
+
+    table {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        text-align: start;
+        margin: auto;
+        color: aliceblue;
+        background-color: rgb(33, 38, 102);
+    }
+
+    table td, table th {
+        border: 1px solid rgb(49, 56, 143);
+        padding: 7px;
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+
+    table tr:nth-child(even){background-color: rgb(33, 38, 102)}
+
+    table tr:hover {background-color: rgb(49, 56, 143)}
+
+    table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #0f0a24;
+        color: aliceblue;
+    }
+</style>
+</head>
+<body>
+    <div class="principal">
+        <h2>Brazilian companies that hire to work remotely</h2>
+        <table id="brazilian-companies">
+            <tr>
+                <th>Name</th>
+                <th>Website</th>
+            </tr>
+            <!-- companies will be here -->
+        </table>
+
+        <!--    SECOND
+                TABLE
+        -->
+        <h2>Worldwide companies that hire brazilians to work remotely</h2>
+
+        <table id="world-wide-companies">
+            <tr>
+                <th>Name</th>
+                <th>Website</th>
+            </tr>
+            <!-- companies will be here -->
+        </table>
+    </div>
+</body>
+
+<script src="brazilian-companies.js"></script>
+<script src="world-wide-companies.js"></script>
+<script src="companiesMapping.js"></script>
+
+</html>
+
