@@ -82,6 +82,7 @@ Ferreri | http://ferreri.co/
 Field Control | https://fieldcontrol.com.br/vaga-para-desenvolvedor.html
 Filmow | https://www.linkedin.com/company/filmow
 Finxi | http://finxi.com.br/
+Fit Tecnologia | https://fit-tecnologia.org.br
 Fractal Tecnologia | http://www.fractaltecnologia.com.br
 Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
@@ -149,6 +150,7 @@ Pismo | http://pismo.io/
 PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão/
 Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
+Prill | https://prill.com.br/ 
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Raízen | https://genteraizen.gupy.io/
