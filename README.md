@@ -275,6 +275,7 @@ Soshace | https://soshace.com/careers
 Stack Exchange | http://stackexchange.com/work-here
 Stickermule | https://www.stickermule.com/
 Teamed | http://www.teamed.io/
+Teleinx | https://www.teleinx.com/
 Telnyx | https://telnyx.com/company/careers
 Theorem | https://theorem.co/careers
 TIDY | https://tidy.com/
