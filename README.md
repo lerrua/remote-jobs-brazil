@@ -40,6 +40,7 @@ Brave Investments | https://www.linkedin.com/company/brave-investments
 Bridge & Co. | https://www.bridgeconsulting.com.br/
 Builders | https://builders.gupy.io/
 bxblue | https://bxblue.com.br
+C3imob | https://c3imob.com.br/trabalhe-conosco
 C6Bank | https://www.c6bank.com.br/
 CARGOBR | https://cargobr.com/
 Casting Networks | https://www.castingnetworks.com
