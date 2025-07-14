@@ -123,6 +123,7 @@ Magnetis | https://www.magnetis.com.br/
 Magrathea Labs | https://careers.magrathealabs.com
 Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
+Méliuz | https://meliuz.gupy.io
 Meltwater | https://www.meltwater.com
 MiningMath | http://www.miningmath.com/
 Monde | http://www.monde.com.br/
