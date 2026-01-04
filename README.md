@@ -37,6 +37,7 @@ Blogo | https://getblogo.com
 BossaBox | https://bossabox.com/
 Brainn.co | https://brainn.co/
 Brave Investments | https://www.linkedin.com/company/brave-investments
+Bridge & Co. | https://www.bridgeconsulting.com.br/
 Builders | https://builders.gupy.io/
 bxblue | https://bxblue.com.br
 C6Bank | https://www.c6bank.com.br/
@@ -154,6 +155,7 @@ Raízen | https://genteraizen.gupy.io/
 Raro Labs | https://rarolabs.com.br/
 R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
+Reduza | https://www.reduza.com.br/
 Repassa | https://www.repassa.com.br/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
@@ -162,6 +164,7 @@ Rock Content | https://rockcontent.com/careers/
 Sambatech | https://sambatech.kula.jobs/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
+Site Confiável | https://www.siteconfiavel.com.br/
 Skore | https://jobs.kenoby.com/skore
 SmartMEI | https://smartmei.recruiterbox.com/jobs
 Social Miner | https://hipsters.jobs/company/85/social-miner/
