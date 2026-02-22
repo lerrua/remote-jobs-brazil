@@ -76,6 +76,7 @@ Entria | https://github.com/entria/jobs
 Estratégia Educacional | https://www.linkedin.com/company/estrategia-educacional/
 ETEG | https://eteg.solides.jobs/
 Evolux | https://www.evolux.net.br/
+Extreme Digital Solutions | https://www2.extremedigital.com.br/
 Fanatee | https://www.fanatee.com/#careers
 FCamara | https://www.fcamara.com.br/
 Ferreri | http://ferreri.co/
@@ -199,6 +200,7 @@ Wiki Consultoria | https://wikiconsultoria.com.br/
 XP Inc | https://www.xpi.com.br/
 YACOWS | http://yacows.com.br/
 Yaman | https://vemprayaman.gupy.io
+YDUQS | https://www.yduqs.com.br/
 Yogh | https://www.yogh.com.br/trabalhe-conosco/
 
 
