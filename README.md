@@ -87,6 +87,7 @@ Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
 Gerencianet | https://jobs.kenoby.com/gerencianet/
 GFT | https://www.gft.com/br/
+Grupo Boticário | https://grupoboticario.gupy.io/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 Hash | https://www.hash.com.br/
