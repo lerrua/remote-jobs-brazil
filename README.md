@@ -238,8 +238,8 @@ GovSpend | https://govspend.com/careers/#openpositions
 GraphCMS | https://jobs.graphcms.com
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
-Howdy | https://www.howdylatam.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
+Howdy | https://www.howdylatam.com/
 IBM | http://www.ibm.com/br-pt/
 Indeed | https://www.indeed.com/
 Jobsity | https://www.jobsity.com/
