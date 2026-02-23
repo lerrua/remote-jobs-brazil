@@ -95,6 +95,7 @@ Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
 Icaro Tech | https://icarotech.gupy.io
 iClinic | https://vagas.iclinic.com.br/
+iFood | https://carreiras.ifood.com.br/jobs/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
 Impulso (HE:labs) | https://impulso.network/
 Inova e-Business | https://www.inovaebiz.com.br/
